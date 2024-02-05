@@ -39,16 +39,21 @@
             textBox2 = new TextBox();
             button5 = new Button();
             button6 = new Button();
+            button7 = new Button();
+            button8 = new Button();
+            textBox3 = new TextBox();
+            label3 = new Label();
+            button9 = new Button();
             SuspendLayout();
             // 
             // button1
             // 
             button1.BackColor = Color.Transparent;
             button1.FlatStyle = FlatStyle.Flat;
-            button1.Location = new Point(77, 201);
+            button1.Location = new Point(76, 201);
             button1.Name = "button1";
             button1.Size = new Size(197, 90);
-            button1.TabIndex = 2;
+            button1.TabIndex = 7;
             button1.Text = "Soma";
             button1.UseVisualStyleBackColor = false;
             button1.Click += button1_Click_1;
@@ -60,7 +65,7 @@
             button2.Location = new Point(322, 201);
             button2.Name = "button2";
             button2.Size = new Size(173, 90);
-            button2.TabIndex = 3;
+            button2.TabIndex = 8;
             button2.Text = "Subtração";
             button2.UseVisualStyleBackColor = false;
             button2.Click += button2_Click_1;
@@ -72,7 +77,7 @@
             button3.Location = new Point(123, 337);
             button3.Name = "button3";
             button3.Size = new Size(109, 29);
-            button3.TabIndex = 4;
+            button3.TabIndex = 10;
             button3.Text = "Multiplicação";
             button3.UseVisualStyleBackColor = false;
             button3.Click += button3_Click_1;
@@ -84,7 +89,7 @@
             button4.Location = new Point(375, 337);
             button4.Name = "button4";
             button4.Size = new Size(94, 29);
-            button4.TabIndex = 5;
+            button4.TabIndex = 11;
             button4.Text = "Divisão";
             button4.UseVisualStyleBackColor = false;
             button4.Click += button4_Click;
@@ -96,7 +101,7 @@
             label1.Location = new Point(66, 70);
             label1.Name = "label1";
             label1.Size = new Size(130, 20);
-            label1.TabIndex = 7;
+            label1.TabIndex = 4;
             label1.Text = "Digite um número";
             // 
             // label2
@@ -106,7 +111,7 @@
             label2.Location = new Point(401, 83);
             label2.Name = "label2";
             label2.Size = new Size(145, 20);
-            label2.TabIndex = 6;
+            label2.TabIndex = 5;
             label2.Text = "Digite outro número";
             // 
             // textBox1
@@ -130,7 +135,7 @@
             button5.Location = new Point(596, 351);
             button5.Name = "button5";
             button5.Size = new Size(94, 29);
-            button5.TabIndex = 8;
+            button5.TabIndex = 13;
             button5.Text = "Raiz";
             button5.UseVisualStyleBackColor = false;
             button5.Click += button5_Click;
@@ -142,16 +147,72 @@
             button6.Location = new Point(582, 214);
             button6.Name = "button6";
             button6.Size = new Size(94, 29);
-            button6.TabIndex = 9;
+            button6.TabIndex = 12;
             button6.Text = "Potência";
             button6.UseVisualStyleBackColor = false;
             button6.Click += button6_Click;
+            // 
+            // button7
+            // 
+            button7.BackColor = Color.Transparent;
+            button7.FlatStyle = FlatStyle.Flat;
+            button7.Location = new Point(148, 166);
+            button7.Name = "button7";
+            button7.Size = new Size(94, 29);
+            button7.TabIndex = 6;
+            button7.Text = "Báskara";
+            button7.UseVisualStyleBackColor = false;
+            button7.Click += button7_Click;
+            // 
+            // button8
+            // 
+            button8.BackColor = Color.Transparent;
+            button8.FlatStyle = FlatStyle.Flat;
+            button8.Location = new Point(369, 159);
+            button8.Name = "button8";
+            button8.Size = new Size(94, 29);
+            button8.TabIndex = 9;
+            button8.Text = "Log";
+            button8.UseVisualStyleBackColor = false;
+            button8.Click += button8_Click;
+            // 
+            // textBox3
+            // 
+            textBox3.Location = new Point(227, 100);
+            textBox3.Name = "textBox3";
+            textBox3.Size = new Size(125, 27);
+            textBox3.TabIndex = 2;
+            // 
+            // label3
+            // 
+            label3.AutoSize = true;
+            label3.BackColor = Color.Transparent;
+            label3.Location = new Point(76, 107);
+            label3.Name = "label3";
+            label3.Size = new Size(145, 20);
+            label3.TabIndex = 3;
+            label3.Text = "Digite outro número";
+            // 
+            // button9
+            // 
+            button9.Location = new Point(582, 144);
+            button9.Name = "button9";
+            button9.Size = new Size(94, 29);
+            button9.TabIndex = 14;
+            button9.Text = "tela2";
+            button9.UseVisualStyleBackColor = true;
+            button9.Click += button9_Click;
             // 
             // Frmcalculadora
             // 
             BackColor = Color.IndianRed;
             BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
             ClientSize = new Size(792, 425);
+            Controls.Add(button9);
+            Controls.Add(label3);
+            Controls.Add(textBox3);
+            Controls.Add(button8);
+            Controls.Add(button7);
             Controls.Add(button6);
             Controls.Add(button5);
             Controls.Add(textBox2);
@@ -181,5 +242,10 @@
         private TextBox textBox2;
         private Button button5;
         private Button button6;
+        private Button button7;
+        private Button button8;
+        private TextBox textBox3;
+        private Label label3;
+        private Button button9;
     }
 }
