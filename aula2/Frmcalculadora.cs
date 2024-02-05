@@ -180,5 +180,10 @@ namespace aula2
             Form2 pri = new Form2();
             pri.ShowDialog();
         }
+
+        private void Frmcalculadora_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

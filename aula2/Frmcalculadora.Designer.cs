@@ -226,6 +226,7 @@
             DoubleBuffered = true;
             Name = "Frmcalculadora";
             StartPosition = FormStartPosition.CenterParent;
+            Load += Frmcalculadora_Load;
             ResumeLayout(false);
             PerformLayout();
         }
