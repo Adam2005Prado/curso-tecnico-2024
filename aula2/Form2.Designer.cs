@@ -32,48 +32,58 @@
             calculadoraToolStripMenuItem = new ToolStripMenuItem();
             ajudaToolStripMenuItem = new ToolStripMenuItem();
             notasToolStripMenuItem = new ToolStripMenuItem();
+            prestcaoToolStripMenuItem = new ToolStripMenuItem();
             menuStrip1.SuspendLayout();
             SuspendLayout();
             // 
             // menuStrip1
             // 
             menuStrip1.ImageScalingSize = new Size(20, 20);
-            menuStrip1.Items.AddRange(new ToolStripItem[] { calculadoraToolStripMenuItem, ajudaToolStripMenuItem, notasToolStripMenuItem });
+            menuStrip1.Items.AddRange(new ToolStripItem[] { calculadoraToolStripMenuItem, ajudaToolStripMenuItem, notasToolStripMenuItem, prestcaoToolStripMenuItem });
             menuStrip1.Location = new Point(0, 0);
             menuStrip1.Name = "menuStrip1";
-            menuStrip1.Size = new Size(800, 28);
+            menuStrip1.Padding = new Padding(5, 2, 0, 2);
+            menuStrip1.Size = new Size(700, 24);
             menuStrip1.TabIndex = 1;
             menuStrip1.Text = "menuStrip1";
             // 
             // calculadoraToolStripMenuItem
             // 
             calculadoraToolStripMenuItem.Name = "calculadoraToolStripMenuItem";
-            calculadoraToolStripMenuItem.Size = new Size(168, 24);
+            calculadoraToolStripMenuItem.Size = new Size(135, 20);
             calculadoraToolStripMenuItem.Text = "Calculadora Ciêntífica";
             calculadoraToolStripMenuItem.Click += calculadoraToolStripMenuItem_Click;
             // 
             // ajudaToolStripMenuItem
             // 
             ajudaToolStripMenuItem.Name = "ajudaToolStripMenuItem";
-            ajudaToolStripMenuItem.Size = new Size(62, 24);
+            ajudaToolStripMenuItem.Size = new Size(50, 20);
             ajudaToolStripMenuItem.Text = "Ajuda";
             ajudaToolStripMenuItem.Click += ajudaToolStripMenuItem_Click;
             // 
             // notasToolStripMenuItem
             // 
             notasToolStripMenuItem.Name = "notasToolStripMenuItem";
-            notasToolStripMenuItem.Size = new Size(59, 24);
+            notasToolStripMenuItem.Size = new Size(48, 20);
             notasToolStripMenuItem.Text = "notas";
             notasToolStripMenuItem.Click += notasToolStripMenuItem_Click;
             // 
+            // prestcaoToolStripMenuItem
+            // 
+            prestcaoToolStripMenuItem.Name = "prestcaoToolStripMenuItem";
+            prestcaoToolStripMenuItem.Size = new Size(64, 20);
+            prestcaoToolStripMenuItem.Text = "prestcao";
+            prestcaoToolStripMenuItem.Click += prestcaoToolStripMenuItem_Click;
+            // 
             // Form2
             // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(700, 338);
             Controls.Add(menuStrip1);
             IsMdiContainer = true;
             MainMenuStrip = menuStrip1;
+            Margin = new Padding(3, 2, 3, 2);
             Name = "Form2";
             Text = "Form2";
             Load += Form2_Load;
@@ -89,5 +99,6 @@
         private ToolStripMenuItem calculadoraToolStripMenuItem;
         private ToolStripMenuItem ajudaToolStripMenuItem;
         private ToolStripMenuItem notasToolStripMenuItem;
+        private ToolStripMenuItem prestcaoToolStripMenuItem;
     }
 }

@@ -63,10 +63,30 @@ namespace aula2.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap grade {
+            get {
+                object obj = ResourceManager.GetObject("grade", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap lovepik_calculator_icon_free_vector_illustration_material_png_image_401495032_wh1200 {
             get {
                 object obj = ResourceManager.GetObject("lovepik-calculator-icon-free-vector-illustration-material-png-image_401495032_wh1" +
                         "200", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap taxes {
+            get {
+                object obj = ResourceManager.GetObject("taxes", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

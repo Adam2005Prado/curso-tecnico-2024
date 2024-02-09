@@ -40,8 +40,14 @@ namespace aula2
 
         private void notasToolStripMenuItem_Click(object sender, EventArgs e)
         {
-          notas notas=new notas();
+            notas notas = new notas();
             notas.ShowDialog();
+        }
+
+        private void prestcaoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            prestacao prestacao=new prestacao ();
+            prestacao.ShowDialog();
         }
     }
 }

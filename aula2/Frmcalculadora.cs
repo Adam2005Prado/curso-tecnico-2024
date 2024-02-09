@@ -13,7 +13,7 @@ namespace aula2
             if (string.IsNullOrEmpty(textBox1.Text))
             {
                 MessageBox.Show("campo vazio");
-                textBox1.Focus();
+                textBox1.Focus(); 
                 return;
             }
             if (string.IsNullOrEmpty(textBox2.Text))
@@ -134,7 +134,18 @@ namespace aula2
 
             MessageBox.Show("O resultado do x linha é :" + xl);
             MessageBox.Show("Já o resultado de x duas linha é:" + xll);
-
+            if (delta > 0)
+            {
+                MessageBox.Show("Há duas raízes iguais ou distintas");
+            }
+            else if (delta < 0)
+            {
+                MessageBox.Show("Não há raiz");
+            }
+            else
+            {
+                MessageBox.Show("Há duas raízes iguais ou distintas");
+            }
         }
 
         private void button8_Click(object sender, EventArgs e)
