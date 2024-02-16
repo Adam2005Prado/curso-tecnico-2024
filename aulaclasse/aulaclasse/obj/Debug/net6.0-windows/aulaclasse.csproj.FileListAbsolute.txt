@@ -1,0 +1,16 @@
+C:\Users\aluno\source\repos\aulaclasse\aulaclasse\bin\Debug\net6.0-windows\aulaclasse.exe
+C:\Users\aluno\source\repos\aulaclasse\aulaclasse\bin\Debug\net6.0-windows\aulaclasse.deps.json
+C:\Users\aluno\source\repos\aulaclasse\aulaclasse\bin\Debug\net6.0-windows\aulaclasse.runtimeconfig.json
+C:\Users\aluno\source\repos\aulaclasse\aulaclasse\bin\Debug\net6.0-windows\aulaclasse.dll
+C:\Users\aluno\source\repos\aulaclasse\aulaclasse\bin\Debug\net6.0-windows\aulaclasse.pdb
+C:\Users\aluno\source\repos\aulaclasse\aulaclasse\obj\Debug\net6.0-windows\aulaclasse.Form1.resources
+C:\Users\aluno\source\repos\aulaclasse\aulaclasse\obj\Debug\net6.0-windows\aulaclasse.csproj.GenerateResource.cache
+C:\Users\aluno\source\repos\aulaclasse\aulaclasse\obj\Debug\net6.0-windows\aulaclasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\source\repos\aulaclasse\aulaclasse\obj\Debug\net6.0-windows\aulaclasse.AssemblyInfoInputs.cache
+C:\Users\aluno\source\repos\aulaclasse\aulaclasse\obj\Debug\net6.0-windows\aulaclasse.AssemblyInfo.cs
+C:\Users\aluno\source\repos\aulaclasse\aulaclasse\obj\Debug\net6.0-windows\aulaclasse.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\aulaclasse\aulaclasse\obj\Debug\net6.0-windows\aulaclasse.dll
+C:\Users\aluno\source\repos\aulaclasse\aulaclasse\obj\Debug\net6.0-windows\refint\aulaclasse.dll
+C:\Users\aluno\source\repos\aulaclasse\aulaclasse\obj\Debug\net6.0-windows\aulaclasse.pdb
+C:\Users\aluno\source\repos\aulaclasse\aulaclasse\obj\Debug\net6.0-windows\aulaclasse.genruntimeconfig.cache
+C:\Users\aluno\source\repos\aulaclasse\aulaclasse\obj\Debug\net6.0-windows\ref\aulaclasse.dll

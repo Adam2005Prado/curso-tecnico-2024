@@ -1,0 +1,16 @@
+C:\Users\aluno\source\repos\contabancariaadamlista3ex3\contabancariaadamlista3ex3\obj\Debug\net6.0-windows\contabancariaadamlista3ex3.Form1.resources
+C:\Users\aluno\source\repos\contabancariaadamlista3ex3\contabancariaadamlista3ex3\obj\Debug\net6.0-windows\contabancariaadamlista3ex3.csproj.GenerateResource.cache
+C:\Users\aluno\source\repos\contabancariaadamlista3ex3\contabancariaadamlista3ex3\obj\Debug\net6.0-windows\contabancariaadamlista3ex3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\source\repos\contabancariaadamlista3ex3\contabancariaadamlista3ex3\obj\Debug\net6.0-windows\contabancariaadamlista3ex3.AssemblyInfoInputs.cache
+C:\Users\aluno\source\repos\contabancariaadamlista3ex3\contabancariaadamlista3ex3\obj\Debug\net6.0-windows\contabancariaadamlista3ex3.AssemblyInfo.cs
+C:\Users\aluno\source\repos\contabancariaadamlista3ex3\contabancariaadamlista3ex3\obj\Debug\net6.0-windows\contabancariaadamlista3ex3.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\contabancariaadamlista3ex3\contabancariaadamlista3ex3\bin\Debug\net6.0-windows\contabancariaadamlista3ex3.exe
+C:\Users\aluno\source\repos\contabancariaadamlista3ex3\contabancariaadamlista3ex3\bin\Debug\net6.0-windows\contabancariaadamlista3ex3.deps.json
+C:\Users\aluno\source\repos\contabancariaadamlista3ex3\contabancariaadamlista3ex3\bin\Debug\net6.0-windows\contabancariaadamlista3ex3.runtimeconfig.json
+C:\Users\aluno\source\repos\contabancariaadamlista3ex3\contabancariaadamlista3ex3\bin\Debug\net6.0-windows\contabancariaadamlista3ex3.dll
+C:\Users\aluno\source\repos\contabancariaadamlista3ex3\contabancariaadamlista3ex3\bin\Debug\net6.0-windows\contabancariaadamlista3ex3.pdb
+C:\Users\aluno\source\repos\contabancariaadamlista3ex3\contabancariaadamlista3ex3\obj\Debug\net6.0-windows\contabancariaadamlista3ex3.dll
+C:\Users\aluno\source\repos\contabancariaadamlista3ex3\contabancariaadamlista3ex3\obj\Debug\net6.0-windows\refint\contabancariaadamlista3ex3.dll
+C:\Users\aluno\source\repos\contabancariaadamlista3ex3\contabancariaadamlista3ex3\obj\Debug\net6.0-windows\contabancariaadamlista3ex3.pdb
+C:\Users\aluno\source\repos\contabancariaadamlista3ex3\contabancariaadamlista3ex3\obj\Debug\net6.0-windows\contabancariaadamlista3ex3.genruntimeconfig.cache
+C:\Users\aluno\source\repos\contabancariaadamlista3ex3\contabancariaadamlista3ex3\obj\Debug\net6.0-windows\ref\contabancariaadamlista3ex3.dll

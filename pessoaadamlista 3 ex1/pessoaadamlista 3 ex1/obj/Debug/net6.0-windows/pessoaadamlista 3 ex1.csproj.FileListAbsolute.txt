@@ -1,0 +1,16 @@
+C:\Users\aluno\source\repos\pessoaadamlista 3 ex1\pessoaadamlista 3 ex1\bin\Debug\net6.0-windows\pessoaadamlista 3 ex1.exe
+C:\Users\aluno\source\repos\pessoaadamlista 3 ex1\pessoaadamlista 3 ex1\bin\Debug\net6.0-windows\pessoaadamlista 3 ex1.deps.json
+C:\Users\aluno\source\repos\pessoaadamlista 3 ex1\pessoaadamlista 3 ex1\bin\Debug\net6.0-windows\pessoaadamlista 3 ex1.runtimeconfig.json
+C:\Users\aluno\source\repos\pessoaadamlista 3 ex1\pessoaadamlista 3 ex1\bin\Debug\net6.0-windows\pessoaadamlista 3 ex1.dll
+C:\Users\aluno\source\repos\pessoaadamlista 3 ex1\pessoaadamlista 3 ex1\bin\Debug\net6.0-windows\pessoaadamlista 3 ex1.pdb
+C:\Users\aluno\source\repos\pessoaadamlista 3 ex1\pessoaadamlista 3 ex1\obj\Debug\net6.0-windows\pessoaadamlista_3_ex1.Form1.resources
+C:\Users\aluno\source\repos\pessoaadamlista 3 ex1\pessoaadamlista 3 ex1\obj\Debug\net6.0-windows\pessoaadamlista 3 ex1.csproj.GenerateResource.cache
+C:\Users\aluno\source\repos\pessoaadamlista 3 ex1\pessoaadamlista 3 ex1\obj\Debug\net6.0-windows\pessoaadamlista 3 ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\source\repos\pessoaadamlista 3 ex1\pessoaadamlista 3 ex1\obj\Debug\net6.0-windows\pessoaadamlista 3 ex1.AssemblyInfoInputs.cache
+C:\Users\aluno\source\repos\pessoaadamlista 3 ex1\pessoaadamlista 3 ex1\obj\Debug\net6.0-windows\pessoaadamlista 3 ex1.AssemblyInfo.cs
+C:\Users\aluno\source\repos\pessoaadamlista 3 ex1\pessoaadamlista 3 ex1\obj\Debug\net6.0-windows\pessoaadamlista 3 ex1.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\pessoaadamlista 3 ex1\pessoaadamlista 3 ex1\obj\Debug\net6.0-windows\pessoaadamlista 3 ex1.dll
+C:\Users\aluno\source\repos\pessoaadamlista 3 ex1\pessoaadamlista 3 ex1\obj\Debug\net6.0-windows\refint\pessoaadamlista 3 ex1.dll
+C:\Users\aluno\source\repos\pessoaadamlista 3 ex1\pessoaadamlista 3 ex1\obj\Debug\net6.0-windows\pessoaadamlista 3 ex1.pdb
+C:\Users\aluno\source\repos\pessoaadamlista 3 ex1\pessoaadamlista 3 ex1\obj\Debug\net6.0-windows\pessoaadamlista 3 ex1.genruntimeconfig.cache
+C:\Users\aluno\source\repos\pessoaadamlista 3 ex1\pessoaadamlista 3 ex1\obj\Debug\net6.0-windows\ref\pessoaadamlista 3 ex1.dll
