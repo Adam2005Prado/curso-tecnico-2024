@@ -1,0 +1,17 @@
+C:\Users\aluno\source\repos\circuloadamlista3ex5\circuloadamlista3ex5\obj\Debug\net6.0-windows\circuloadamlista3ex5.Form1.resources
+C:\Users\aluno\source\repos\circuloadamlista3ex5\circuloadamlista3ex5\obj\Debug\net6.0-windows\circuloadamlista3ex5.Properties.Resources.resources
+C:\Users\aluno\source\repos\circuloadamlista3ex5\circuloadamlista3ex5\obj\Debug\net6.0-windows\circuloadamlista3ex5.csproj.GenerateResource.cache
+C:\Users\aluno\source\repos\circuloadamlista3ex5\circuloadamlista3ex5\obj\Debug\net6.0-windows\circuloadamlista3ex5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\source\repos\circuloadamlista3ex5\circuloadamlista3ex5\obj\Debug\net6.0-windows\circuloadamlista3ex5.AssemblyInfoInputs.cache
+C:\Users\aluno\source\repos\circuloadamlista3ex5\circuloadamlista3ex5\obj\Debug\net6.0-windows\circuloadamlista3ex5.AssemblyInfo.cs
+C:\Users\aluno\source\repos\circuloadamlista3ex5\circuloadamlista3ex5\obj\Debug\net6.0-windows\circuloadamlista3ex5.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\circuloadamlista3ex5\circuloadamlista3ex5\bin\Debug\net6.0-windows\circuloadamlista3ex5.exe
+C:\Users\aluno\source\repos\circuloadamlista3ex5\circuloadamlista3ex5\bin\Debug\net6.0-windows\circuloadamlista3ex5.deps.json
+C:\Users\aluno\source\repos\circuloadamlista3ex5\circuloadamlista3ex5\bin\Debug\net6.0-windows\circuloadamlista3ex5.runtimeconfig.json
+C:\Users\aluno\source\repos\circuloadamlista3ex5\circuloadamlista3ex5\bin\Debug\net6.0-windows\circuloadamlista3ex5.dll
+C:\Users\aluno\source\repos\circuloadamlista3ex5\circuloadamlista3ex5\bin\Debug\net6.0-windows\circuloadamlista3ex5.pdb
+C:\Users\aluno\source\repos\circuloadamlista3ex5\circuloadamlista3ex5\obj\Debug\net6.0-windows\circuloadamlista3ex5.dll
+C:\Users\aluno\source\repos\circuloadamlista3ex5\circuloadamlista3ex5\obj\Debug\net6.0-windows\refint\circuloadamlista3ex5.dll
+C:\Users\aluno\source\repos\circuloadamlista3ex5\circuloadamlista3ex5\obj\Debug\net6.0-windows\circuloadamlista3ex5.pdb
+C:\Users\aluno\source\repos\circuloadamlista3ex5\circuloadamlista3ex5\obj\Debug\net6.0-windows\circuloadamlista3ex5.genruntimeconfig.cache
+C:\Users\aluno\source\repos\circuloadamlista3ex5\circuloadamlista3ex5\obj\Debug\net6.0-windows\ref\circuloadamlista3ex5.dll
