@@ -1,0 +1,16 @@
+C:\Users\aluno\source\repos\carroadamlista3ex7\carroadamlista3ex7\obj\Debug\net6.0-windows\carroadamlista3ex7.Form1.resources
+C:\Users\aluno\source\repos\carroadamlista3ex7\carroadamlista3ex7\obj\Debug\net6.0-windows\carroadamlista3ex7.csproj.GenerateResource.cache
+C:\Users\aluno\source\repos\carroadamlista3ex7\carroadamlista3ex7\obj\Debug\net6.0-windows\carroadamlista3ex7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\source\repos\carroadamlista3ex7\carroadamlista3ex7\obj\Debug\net6.0-windows\carroadamlista3ex7.AssemblyInfoInputs.cache
+C:\Users\aluno\source\repos\carroadamlista3ex7\carroadamlista3ex7\obj\Debug\net6.0-windows\carroadamlista3ex7.AssemblyInfo.cs
+C:\Users\aluno\source\repos\carroadamlista3ex7\carroadamlista3ex7\obj\Debug\net6.0-windows\carroadamlista3ex7.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\carroadamlista3ex7\carroadamlista3ex7\bin\Debug\net6.0-windows\carroadamlista3ex7.exe
+C:\Users\aluno\source\repos\carroadamlista3ex7\carroadamlista3ex7\bin\Debug\net6.0-windows\carroadamlista3ex7.deps.json
+C:\Users\aluno\source\repos\carroadamlista3ex7\carroadamlista3ex7\bin\Debug\net6.0-windows\carroadamlista3ex7.runtimeconfig.json
+C:\Users\aluno\source\repos\carroadamlista3ex7\carroadamlista3ex7\bin\Debug\net6.0-windows\carroadamlista3ex7.dll
+C:\Users\aluno\source\repos\carroadamlista3ex7\carroadamlista3ex7\bin\Debug\net6.0-windows\carroadamlista3ex7.pdb
+C:\Users\aluno\source\repos\carroadamlista3ex7\carroadamlista3ex7\obj\Debug\net6.0-windows\carroadamlista3ex7.dll
+C:\Users\aluno\source\repos\carroadamlista3ex7\carroadamlista3ex7\obj\Debug\net6.0-windows\refint\carroadamlista3ex7.dll
+C:\Users\aluno\source\repos\carroadamlista3ex7\carroadamlista3ex7\obj\Debug\net6.0-windows\carroadamlista3ex7.pdb
+C:\Users\aluno\source\repos\carroadamlista3ex7\carroadamlista3ex7\obj\Debug\net6.0-windows\carroadamlista3ex7.genruntimeconfig.cache
+C:\Users\aluno\source\repos\carroadamlista3ex7\carroadamlista3ex7\obj\Debug\net6.0-windows\ref\carroadamlista3ex7.dll

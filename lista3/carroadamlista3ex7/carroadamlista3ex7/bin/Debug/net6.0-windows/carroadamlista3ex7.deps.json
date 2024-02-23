@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "carroadamlista3ex7/1.0.0": {
+        "runtime": {
+          "carroadamlista3ex7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "carroadamlista3ex7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

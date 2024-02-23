@@ -1,0 +1,16 @@
+C:\Users\aluno\source\repos\notaalunoadamlista3ex6\notaalunoadamlista3ex6\bin\Debug\net6.0-windows\notaalunoadamlista3ex6.exe
+C:\Users\aluno\source\repos\notaalunoadamlista3ex6\notaalunoadamlista3ex6\bin\Debug\net6.0-windows\notaalunoadamlista3ex6.deps.json
+C:\Users\aluno\source\repos\notaalunoadamlista3ex6\notaalunoadamlista3ex6\bin\Debug\net6.0-windows\notaalunoadamlista3ex6.runtimeconfig.json
+C:\Users\aluno\source\repos\notaalunoadamlista3ex6\notaalunoadamlista3ex6\bin\Debug\net6.0-windows\notaalunoadamlista3ex6.dll
+C:\Users\aluno\source\repos\notaalunoadamlista3ex6\notaalunoadamlista3ex6\bin\Debug\net6.0-windows\notaalunoadamlista3ex6.pdb
+C:\Users\aluno\source\repos\notaalunoadamlista3ex6\notaalunoadamlista3ex6\obj\Debug\net6.0-windows\notaalunoadamlista3ex6.Form1.resources
+C:\Users\aluno\source\repos\notaalunoadamlista3ex6\notaalunoadamlista3ex6\obj\Debug\net6.0-windows\notaalunoadamlista3ex6.csproj.GenerateResource.cache
+C:\Users\aluno\source\repos\notaalunoadamlista3ex6\notaalunoadamlista3ex6\obj\Debug\net6.0-windows\notaalunoadamlista3ex6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\source\repos\notaalunoadamlista3ex6\notaalunoadamlista3ex6\obj\Debug\net6.0-windows\notaalunoadamlista3ex6.AssemblyInfoInputs.cache
+C:\Users\aluno\source\repos\notaalunoadamlista3ex6\notaalunoadamlista3ex6\obj\Debug\net6.0-windows\notaalunoadamlista3ex6.AssemblyInfo.cs
+C:\Users\aluno\source\repos\notaalunoadamlista3ex6\notaalunoadamlista3ex6\obj\Debug\net6.0-windows\notaalunoadamlista3ex6.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\notaalunoadamlista3ex6\notaalunoadamlista3ex6\obj\Debug\net6.0-windows\notaalunoadamlista3ex6.dll
+C:\Users\aluno\source\repos\notaalunoadamlista3ex6\notaalunoadamlista3ex6\obj\Debug\net6.0-windows\refint\notaalunoadamlista3ex6.dll
+C:\Users\aluno\source\repos\notaalunoadamlista3ex6\notaalunoadamlista3ex6\obj\Debug\net6.0-windows\notaalunoadamlista3ex6.pdb
+C:\Users\aluno\source\repos\notaalunoadamlista3ex6\notaalunoadamlista3ex6\obj\Debug\net6.0-windows\notaalunoadamlista3ex6.genruntimeconfig.cache
+C:\Users\aluno\source\repos\notaalunoadamlista3ex6\notaalunoadamlista3ex6\obj\Debug\net6.0-windows\ref\notaalunoadamlista3ex6.dll
