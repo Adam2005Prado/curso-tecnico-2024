@@ -1,0 +1,17 @@
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\calculadorasomaadamlista3ex11\calculadorasomaadamlista3ex11\bin\Debug\net6.0-windows\calculadorasomaadamlista3ex11.exe
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\calculadorasomaadamlista3ex11\calculadorasomaadamlista3ex11\bin\Debug\net6.0-windows\calculadorasomaadamlista3ex11.deps.json
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\calculadorasomaadamlista3ex11\calculadorasomaadamlista3ex11\bin\Debug\net6.0-windows\calculadorasomaadamlista3ex11.runtimeconfig.json
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\calculadorasomaadamlista3ex11\calculadorasomaadamlista3ex11\bin\Debug\net6.0-windows\calculadorasomaadamlista3ex11.dll
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\calculadorasomaadamlista3ex11\calculadorasomaadamlista3ex11\bin\Debug\net6.0-windows\calculadorasomaadamlista3ex11.pdb
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\calculadorasomaadamlista3ex11\calculadorasomaadamlista3ex11\obj\Debug\net6.0-windows\calculadorasomaadamlista3ex11.Form1.resources
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\calculadorasomaadamlista3ex11\calculadorasomaadamlista3ex11\obj\Debug\net6.0-windows\calculadorasomaadamlista3ex11.csproj.GenerateResource.cache
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\calculadorasomaadamlista3ex11\calculadorasomaadamlista3ex11\obj\Debug\net6.0-windows\calculadorasomaadamlista3ex11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\calculadorasomaadamlista3ex11\calculadorasomaadamlista3ex11\obj\Debug\net6.0-windows\calculadorasomaadamlista3ex11.AssemblyInfoInputs.cache
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\calculadorasomaadamlista3ex11\calculadorasomaadamlista3ex11\obj\Debug\net6.0-windows\calculadorasomaadamlista3ex11.AssemblyInfo.cs
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\calculadorasomaadamlista3ex11\calculadorasomaadamlista3ex11\obj\Debug\net6.0-windows\calculadorasomaadamlista3ex11.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\calculadorasomaadamlista3ex11\calculadorasomaadamlista3ex11\obj\Debug\net6.0-windows\calculadorasomaadamlista3ex11.sourcelink.json
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\calculadorasomaadamlista3ex11\calculadorasomaadamlista3ex11\obj\Debug\net6.0-windows\calculadorasomaadamlista3ex11.dll
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\calculadorasomaadamlista3ex11\calculadorasomaadamlista3ex11\obj\Debug\net6.0-windows\refint\calculadorasomaadamlista3ex11.dll
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\calculadorasomaadamlista3ex11\calculadorasomaadamlista3ex11\obj\Debug\net6.0-windows\calculadorasomaadamlista3ex11.pdb
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\calculadorasomaadamlista3ex11\calculadorasomaadamlista3ex11\obj\Debug\net6.0-windows\calculadorasomaadamlista3ex11.genruntimeconfig.cache
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\calculadorasomaadamlista3ex11\calculadorasomaadamlista3ex11\obj\Debug\net6.0-windows\ref\calculadorasomaadamlista3ex11.dll

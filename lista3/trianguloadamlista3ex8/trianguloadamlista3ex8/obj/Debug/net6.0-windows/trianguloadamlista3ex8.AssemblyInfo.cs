@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("trianguloadamlista3ex8")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35b0965c3b9381bd66b1a3b8e11f866bc297c1a4")]
 [assembly: System.Reflection.AssemblyProductAttribute("trianguloadamlista3ex8")]
 [assembly: System.Reflection.AssemblyTitleAttribute("trianguloadamlista3ex8")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

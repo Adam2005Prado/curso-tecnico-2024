@@ -1,0 +1,17 @@
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\salariofuncionarioadamlista3ex10\salariofuncionarioadamlista3ex10\bin\Debug\net6.0-windows\salariofuncionarioadamlista3ex10.exe
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\salariofuncionarioadamlista3ex10\salariofuncionarioadamlista3ex10\bin\Debug\net6.0-windows\salariofuncionarioadamlista3ex10.deps.json
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\salariofuncionarioadamlista3ex10\salariofuncionarioadamlista3ex10\bin\Debug\net6.0-windows\salariofuncionarioadamlista3ex10.runtimeconfig.json
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\salariofuncionarioadamlista3ex10\salariofuncionarioadamlista3ex10\bin\Debug\net6.0-windows\salariofuncionarioadamlista3ex10.dll
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\salariofuncionarioadamlista3ex10\salariofuncionarioadamlista3ex10\bin\Debug\net6.0-windows\salariofuncionarioadamlista3ex10.pdb
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\salariofuncionarioadamlista3ex10\salariofuncionarioadamlista3ex10\obj\Debug\net6.0-windows\salariofuncionarioadamlista3ex10.Form1.resources
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\salariofuncionarioadamlista3ex10\salariofuncionarioadamlista3ex10\obj\Debug\net6.0-windows\salariofuncionarioadamlista3ex10.csproj.GenerateResource.cache
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\salariofuncionarioadamlista3ex10\salariofuncionarioadamlista3ex10\obj\Debug\net6.0-windows\salariofuncionarioadamlista3ex10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\salariofuncionarioadamlista3ex10\salariofuncionarioadamlista3ex10\obj\Debug\net6.0-windows\salariofuncionarioadamlista3ex10.AssemblyInfoInputs.cache
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\salariofuncionarioadamlista3ex10\salariofuncionarioadamlista3ex10\obj\Debug\net6.0-windows\salariofuncionarioadamlista3ex10.AssemblyInfo.cs
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\salariofuncionarioadamlista3ex10\salariofuncionarioadamlista3ex10\obj\Debug\net6.0-windows\salariofuncionarioadamlista3ex10.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\salariofuncionarioadamlista3ex10\salariofuncionarioadamlista3ex10\obj\Debug\net6.0-windows\salariofuncionarioadamlista3ex10.sourcelink.json
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\salariofuncionarioadamlista3ex10\salariofuncionarioadamlista3ex10\obj\Debug\net6.0-windows\salariofuncionarioadamlista3ex10.dll
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\salariofuncionarioadamlista3ex10\salariofuncionarioadamlista3ex10\obj\Debug\net6.0-windows\refint\salariofuncionarioadamlista3ex10.dll
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\salariofuncionarioadamlista3ex10\salariofuncionarioadamlista3ex10\obj\Debug\net6.0-windows\salariofuncionarioadamlista3ex10.pdb
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\salariofuncionarioadamlista3ex10\salariofuncionarioadamlista3ex10\obj\Debug\net6.0-windows\salariofuncionarioadamlista3ex10.genruntimeconfig.cache
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\salariofuncionarioadamlista3ex10\salariofuncionarioadamlista3ex10\obj\Debug\net6.0-windows\ref\salariofuncionarioadamlista3ex10.dll

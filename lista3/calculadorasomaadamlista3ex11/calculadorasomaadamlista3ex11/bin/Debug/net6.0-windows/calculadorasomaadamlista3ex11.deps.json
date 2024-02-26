@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "calculadorasomaadamlista3ex11/1.0.0": {
+        "runtime": {
+          "calculadorasomaadamlista3ex11.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "calculadorasomaadamlista3ex11/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

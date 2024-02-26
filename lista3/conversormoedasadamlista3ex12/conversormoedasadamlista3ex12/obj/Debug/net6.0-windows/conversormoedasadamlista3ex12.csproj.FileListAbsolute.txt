@@ -1,0 +1,17 @@
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\conversormoedasadamlista3ex12\conversormoedasadamlista3ex12\bin\Debug\net6.0-windows\conversormoedasadamlista3ex12.exe
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\conversormoedasadamlista3ex12\conversormoedasadamlista3ex12\bin\Debug\net6.0-windows\conversormoedasadamlista3ex12.deps.json
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\conversormoedasadamlista3ex12\conversormoedasadamlista3ex12\bin\Debug\net6.0-windows\conversormoedasadamlista3ex12.runtimeconfig.json
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\conversormoedasadamlista3ex12\conversormoedasadamlista3ex12\bin\Debug\net6.0-windows\conversormoedasadamlista3ex12.dll
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\conversormoedasadamlista3ex12\conversormoedasadamlista3ex12\bin\Debug\net6.0-windows\conversormoedasadamlista3ex12.pdb
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\conversormoedasadamlista3ex12\conversormoedasadamlista3ex12\obj\Debug\net6.0-windows\conversormoedasadamlista3ex12.Form1.resources
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\conversormoedasadamlista3ex12\conversormoedasadamlista3ex12\obj\Debug\net6.0-windows\conversormoedasadamlista3ex12.csproj.GenerateResource.cache
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\conversormoedasadamlista3ex12\conversormoedasadamlista3ex12\obj\Debug\net6.0-windows\conversormoedasadamlista3ex12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\conversormoedasadamlista3ex12\conversormoedasadamlista3ex12\obj\Debug\net6.0-windows\conversormoedasadamlista3ex12.AssemblyInfoInputs.cache
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\conversormoedasadamlista3ex12\conversormoedasadamlista3ex12\obj\Debug\net6.0-windows\conversormoedasadamlista3ex12.AssemblyInfo.cs
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\conversormoedasadamlista3ex12\conversormoedasadamlista3ex12\obj\Debug\net6.0-windows\conversormoedasadamlista3ex12.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\conversormoedasadamlista3ex12\conversormoedasadamlista3ex12\obj\Debug\net6.0-windows\conversormoedasadamlista3ex12.sourcelink.json
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\conversormoedasadamlista3ex12\conversormoedasadamlista3ex12\obj\Debug\net6.0-windows\conversormoedasadamlista3ex12.dll
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\conversormoedasadamlista3ex12\conversormoedasadamlista3ex12\obj\Debug\net6.0-windows\refint\conversormoedasadamlista3ex12.dll
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\conversormoedasadamlista3ex12\conversormoedasadamlista3ex12\obj\Debug\net6.0-windows\conversormoedasadamlista3ex12.pdb
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\conversormoedasadamlista3ex12\conversormoedasadamlista3ex12\obj\Debug\net6.0-windows\conversormoedasadamlista3ex12.genruntimeconfig.cache
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\conversormoedasadamlista3ex12\conversormoedasadamlista3ex12\obj\Debug\net6.0-windows\ref\conversormoedasadamlista3ex12.dll
