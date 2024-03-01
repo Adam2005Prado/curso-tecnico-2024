@@ -1,0 +1,17 @@
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\calculadorageometricaadamlista3ex15\calculadorageometricaadamlista3ex15\obj\Debug\net6.0-windows\calculadorageometricaadamlista3ex15.Form1.resources
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\calculadorageometricaadamlista3ex15\calculadorageometricaadamlista3ex15\obj\Debug\net6.0-windows\calculadorageometricaadamlista3ex15.csproj.GenerateResource.cache
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\calculadorageometricaadamlista3ex15\calculadorageometricaadamlista3ex15\obj\Debug\net6.0-windows\calculadorageometricaadamlista3ex15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\calculadorageometricaadamlista3ex15\calculadorageometricaadamlista3ex15\obj\Debug\net6.0-windows\calculadorageometricaadamlista3ex15.AssemblyInfoInputs.cache
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\calculadorageometricaadamlista3ex15\calculadorageometricaadamlista3ex15\obj\Debug\net6.0-windows\calculadorageometricaadamlista3ex15.AssemblyInfo.cs
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\calculadorageometricaadamlista3ex15\calculadorageometricaadamlista3ex15\obj\Debug\net6.0-windows\calculadorageometricaadamlista3ex15.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\calculadorageometricaadamlista3ex15\calculadorageometricaadamlista3ex15\obj\Debug\net6.0-windows\calculadorageometricaadamlista3ex15.sourcelink.json
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\calculadorageometricaadamlista3ex15\calculadorageometricaadamlista3ex15\bin\Debug\net6.0-windows\calculadorageometricaadamlista3ex15.exe
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\calculadorageometricaadamlista3ex15\calculadorageometricaadamlista3ex15\bin\Debug\net6.0-windows\calculadorageometricaadamlista3ex15.deps.json
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\calculadorageometricaadamlista3ex15\calculadorageometricaadamlista3ex15\bin\Debug\net6.0-windows\calculadorageometricaadamlista3ex15.runtimeconfig.json
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\calculadorageometricaadamlista3ex15\calculadorageometricaadamlista3ex15\bin\Debug\net6.0-windows\calculadorageometricaadamlista3ex15.dll
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\calculadorageometricaadamlista3ex15\calculadorageometricaadamlista3ex15\bin\Debug\net6.0-windows\calculadorageometricaadamlista3ex15.pdb
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\calculadorageometricaadamlista3ex15\calculadorageometricaadamlista3ex15\obj\Debug\net6.0-windows\calculadorageometricaadamlista3ex15.dll
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\calculadorageometricaadamlista3ex15\calculadorageometricaadamlista3ex15\obj\Debug\net6.0-windows\refint\calculadorageometricaadamlista3ex15.dll
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\calculadorageometricaadamlista3ex15\calculadorageometricaadamlista3ex15\obj\Debug\net6.0-windows\calculadorageometricaadamlista3ex15.pdb
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\calculadorageometricaadamlista3ex15\calculadorageometricaadamlista3ex15\obj\Debug\net6.0-windows\calculadorageometricaadamlista3ex15.genruntimeconfig.cache
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\calculadorageometricaadamlista3ex15\calculadorageometricaadamlista3ex15\obj\Debug\net6.0-windows\ref\calculadorageometricaadamlista3ex15.dll

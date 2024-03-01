@@ -1,0 +1,17 @@
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\mediaadamlista3ex13\mediaadamlista3ex13\bin\Debug\net6.0-windows\mediaadamlista3ex13.exe
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\mediaadamlista3ex13\mediaadamlista3ex13\bin\Debug\net6.0-windows\mediaadamlista3ex13.deps.json
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\mediaadamlista3ex13\mediaadamlista3ex13\bin\Debug\net6.0-windows\mediaadamlista3ex13.runtimeconfig.json
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\mediaadamlista3ex13\mediaadamlista3ex13\bin\Debug\net6.0-windows\mediaadamlista3ex13.dll
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\mediaadamlista3ex13\mediaadamlista3ex13\bin\Debug\net6.0-windows\mediaadamlista3ex13.pdb
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\mediaadamlista3ex13\mediaadamlista3ex13\obj\Debug\net6.0-windows\mediaadamlista3ex13.Form1.resources
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\mediaadamlista3ex13\mediaadamlista3ex13\obj\Debug\net6.0-windows\mediaadamlista3ex13.csproj.GenerateResource.cache
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\mediaadamlista3ex13\mediaadamlista3ex13\obj\Debug\net6.0-windows\mediaadamlista3ex13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\mediaadamlista3ex13\mediaadamlista3ex13\obj\Debug\net6.0-windows\mediaadamlista3ex13.AssemblyInfoInputs.cache
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\mediaadamlista3ex13\mediaadamlista3ex13\obj\Debug\net6.0-windows\mediaadamlista3ex13.AssemblyInfo.cs
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\mediaadamlista3ex13\mediaadamlista3ex13\obj\Debug\net6.0-windows\mediaadamlista3ex13.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\mediaadamlista3ex13\mediaadamlista3ex13\obj\Debug\net6.0-windows\mediaadamlista3ex13.sourcelink.json
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\mediaadamlista3ex13\mediaadamlista3ex13\obj\Debug\net6.0-windows\mediaadamlista3ex13.dll
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\mediaadamlista3ex13\mediaadamlista3ex13\obj\Debug\net6.0-windows\refint\mediaadamlista3ex13.dll
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\mediaadamlista3ex13\mediaadamlista3ex13\obj\Debug\net6.0-windows\mediaadamlista3ex13.pdb
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\mediaadamlista3ex13\mediaadamlista3ex13\obj\Debug\net6.0-windows\mediaadamlista3ex13.genruntimeconfig.cache
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\mediaadamlista3ex13\mediaadamlista3ex13\obj\Debug\net6.0-windows\ref\mediaadamlista3ex13.dll

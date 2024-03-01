@@ -1,0 +1,17 @@
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\comparadoradamlista3ex16\comparadoradamlista3ex16\bin\Debug\net6.0-windows\comparadoradamlista3ex16.exe
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\comparadoradamlista3ex16\comparadoradamlista3ex16\bin\Debug\net6.0-windows\comparadoradamlista3ex16.deps.json
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\comparadoradamlista3ex16\comparadoradamlista3ex16\bin\Debug\net6.0-windows\comparadoradamlista3ex16.runtimeconfig.json
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\comparadoradamlista3ex16\comparadoradamlista3ex16\bin\Debug\net6.0-windows\comparadoradamlista3ex16.dll
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\comparadoradamlista3ex16\comparadoradamlista3ex16\bin\Debug\net6.0-windows\comparadoradamlista3ex16.pdb
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\comparadoradamlista3ex16\comparadoradamlista3ex16\obj\Debug\net6.0-windows\comparadoradamlista3ex16.Form1.resources
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\comparadoradamlista3ex16\comparadoradamlista3ex16\obj\Debug\net6.0-windows\comparadoradamlista3ex16.csproj.GenerateResource.cache
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\comparadoradamlista3ex16\comparadoradamlista3ex16\obj\Debug\net6.0-windows\comparadoradamlista3ex16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\comparadoradamlista3ex16\comparadoradamlista3ex16\obj\Debug\net6.0-windows\comparadoradamlista3ex16.AssemblyInfoInputs.cache
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\comparadoradamlista3ex16\comparadoradamlista3ex16\obj\Debug\net6.0-windows\comparadoradamlista3ex16.AssemblyInfo.cs
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\comparadoradamlista3ex16\comparadoradamlista3ex16\obj\Debug\net6.0-windows\comparadoradamlista3ex16.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\comparadoradamlista3ex16\comparadoradamlista3ex16\obj\Debug\net6.0-windows\comparadoradamlista3ex16.sourcelink.json
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\comparadoradamlista3ex16\comparadoradamlista3ex16\obj\Debug\net6.0-windows\comparadoradamlista3ex16.dll
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\comparadoradamlista3ex16\comparadoradamlista3ex16\obj\Debug\net6.0-windows\refint\comparadoradamlista3ex16.dll
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\comparadoradamlista3ex16\comparadoradamlista3ex16\obj\Debug\net6.0-windows\comparadoradamlista3ex16.pdb
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\comparadoradamlista3ex16\comparadoradamlista3ex16\obj\Debug\net6.0-windows\comparadoradamlista3ex16.genruntimeconfig.cache
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\comparadoradamlista3ex16\comparadoradamlista3ex16\obj\Debug\net6.0-windows\ref\comparadoradamlista3ex16.dll

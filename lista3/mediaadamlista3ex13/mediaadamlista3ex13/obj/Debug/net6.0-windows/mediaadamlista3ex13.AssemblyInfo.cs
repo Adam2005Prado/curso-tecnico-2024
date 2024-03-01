@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mediaadamlista3ex13")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35b0965c3b9381bd66b1a3b8e11f866bc297c1a4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0cb1d6077f424a1131f2f6a6114567900e084daa")]
 [assembly: System.Reflection.AssemblyProductAttribute("mediaadamlista3ex13")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mediaadamlista3ex13")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
