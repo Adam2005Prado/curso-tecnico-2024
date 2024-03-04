@@ -38,6 +38,9 @@
             label2 = new Label();
             label3 = new Label();
             label4 = new Label();
+            listBox1 = new ListBox();
+            pictureBox1 = new PictureBox();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
             // button1
@@ -127,11 +130,31 @@
             label4.TabIndex = 10;
             label4.Text = "Insira um elemento:";
             // 
+            // listBox1
+            // 
+            listBox1.FormattingEnabled = true;
+            listBox1.ItemHeight = 20;
+            listBox1.Location = new Point(606, 59);
+            listBox1.Name = "listBox1";
+            listBox1.Size = new Size(150, 104);
+            listBox1.TabIndex = 11;
+            // 
+            // pictureBox1
+            // 
+            pictureBox1.Image = Properties.Resources.to_do_list;
+            pictureBox1.Location = new Point(-2, 1);
+            pictureBox1.Name = "pictureBox1";
+            pictureBox1.Size = new Size(808, 453);
+            pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
+            pictureBox1.TabIndex = 12;
+            pictureBox1.TabStop = false;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(listBox1);
             Controls.Add(label4);
             Controls.Add(label3);
             Controls.Add(label2);
@@ -142,9 +165,11 @@
             Controls.Add(button3);
             Controls.Add(button2);
             Controls.Add(button1);
+            Controls.Add(pictureBox1);
             Name = "Form1";
             Text = "Form1";
             Load += Form1_Load;
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -161,5 +186,7 @@
         private Label label2;
         private Label label3;
         private Label label4;
+        private ListBox listBox1;
+        private PictureBox pictureBox1;
     }
 }

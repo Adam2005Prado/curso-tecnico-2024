@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("manipuladorlistaadamlista3ex19")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0cb1d6077f424a1131f2f6a6114567900e084daa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb74195f3dbda7e92559aaa21738ba82b7c25b51")]
 [assembly: System.Reflection.AssemblyProductAttribute("manipuladorlistaadamlista3ex19")]
 [assembly: System.Reflection.AssemblyTitleAttribute("manipuladorlistaadamlista3ex19")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

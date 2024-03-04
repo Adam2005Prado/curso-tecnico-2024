@@ -25,7 +25,7 @@ namespace manipuladorlistaadamlista3ex19
             {
                 minhalista.Add(elemento);
                 MessageBox.Show("elemeneto adicionado!", "Informação!", MessageBoxButtons.OK, MessageBoxIcon.Information);
-
+                listBox1.Items.Add(elemento);//exibir na lista o valor
             }
             else
             {
@@ -40,6 +40,7 @@ namespace manipuladorlistaadamlista3ex19
                 manipuladorlista.removerelemento(minhalista, indice);
                 atualizarlstbox();
                 MessageBox.Show("Elemento removido!", "Informação", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                listBox1.Items.Remove(indice);
             }
             else
             {
@@ -54,6 +55,7 @@ namespace manipuladorlistaadamlista3ex19
                 manipuladorlista.removerelemento1(minhalista, indice);
                 atualizarlstbox();
                 MessageBox.Show("Elemento removido pelo índice!", "Informação", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                listBox1.Items.Remove(indice);
             }
             else
             {
@@ -62,11 +64,15 @@ namespace manipuladorlistaadamlista3ex19
         }
         private void atualizarlstbox()
         {
-            
-           
-            lstlementos.Items.Clear();
-            foreach(int tem in minhalista)
-            {  lstlementos.Items.Add(tem);}
+
+            minhalista.Clear();
+
+
+            //  lstlementos.Items.Clear();
+            foreach (int tem in minhalista)
+            { minhalista.Add(tem); }
+
+
         }
     }
 }
