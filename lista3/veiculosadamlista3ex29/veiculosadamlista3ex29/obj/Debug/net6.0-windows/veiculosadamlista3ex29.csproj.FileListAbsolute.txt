@@ -1,0 +1,17 @@
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\veiculosadamlista3ex29\veiculosadamlista3ex29\bin\Debug\net6.0-windows\veiculosadamlista3ex29.exe
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\veiculosadamlista3ex29\veiculosadamlista3ex29\bin\Debug\net6.0-windows\veiculosadamlista3ex29.deps.json
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\veiculosadamlista3ex29\veiculosadamlista3ex29\bin\Debug\net6.0-windows\veiculosadamlista3ex29.runtimeconfig.json
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\veiculosadamlista3ex29\veiculosadamlista3ex29\bin\Debug\net6.0-windows\veiculosadamlista3ex29.dll
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\veiculosadamlista3ex29\veiculosadamlista3ex29\bin\Debug\net6.0-windows\veiculosadamlista3ex29.pdb
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\veiculosadamlista3ex29\veiculosadamlista3ex29\obj\Debug\net6.0-windows\veiculosadamlista3ex29.Form1.resources
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\veiculosadamlista3ex29\veiculosadamlista3ex29\obj\Debug\net6.0-windows\veiculosadamlista3ex29.csproj.GenerateResource.cache
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\veiculosadamlista3ex29\veiculosadamlista3ex29\obj\Debug\net6.0-windows\veiculosadamlista3ex29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\veiculosadamlista3ex29\veiculosadamlista3ex29\obj\Debug\net6.0-windows\veiculosadamlista3ex29.AssemblyInfoInputs.cache
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\veiculosadamlista3ex29\veiculosadamlista3ex29\obj\Debug\net6.0-windows\veiculosadamlista3ex29.AssemblyInfo.cs
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\veiculosadamlista3ex29\veiculosadamlista3ex29\obj\Debug\net6.0-windows\veiculosadamlista3ex29.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\veiculosadamlista3ex29\veiculosadamlista3ex29\obj\Debug\net6.0-windows\veiculosadamlista3ex29.sourcelink.json
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\veiculosadamlista3ex29\veiculosadamlista3ex29\obj\Debug\net6.0-windows\veiculosadamlista3ex29.dll
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\veiculosadamlista3ex29\veiculosadamlista3ex29\obj\Debug\net6.0-windows\refint\veiculosadamlista3ex29.dll
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\veiculosadamlista3ex29\veiculosadamlista3ex29\obj\Debug\net6.0-windows\veiculosadamlista3ex29.pdb
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\veiculosadamlista3ex29\veiculosadamlista3ex29\obj\Debug\net6.0-windows\veiculosadamlista3ex29.genruntimeconfig.cache
+C:\Users\aluno\Documents\GitHub\curso-tecnico-2024\lista3\veiculosadamlista3ex29\veiculosadamlista3ex29\obj\Debug\net6.0-windows\ref\veiculosadamlista3ex29.dll

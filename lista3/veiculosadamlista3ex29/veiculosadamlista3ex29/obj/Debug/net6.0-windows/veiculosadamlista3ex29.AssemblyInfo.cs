@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("veiculosadamlista3ex29")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb74195f3dbda7e92559aaa21738ba82b7c25b51")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d831f8f83b2c816b64077d9036692ddc6f57d91")]
 [assembly: System.Reflection.AssemblyProductAttribute("veiculosadamlista3ex29")]
 [assembly: System.Reflection.AssemblyTitleAttribute("veiculosadamlista3ex29")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

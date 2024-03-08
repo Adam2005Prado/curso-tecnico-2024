@@ -35,7 +35,7 @@
             // 
             // textBox1
             // 
-            textBox1.Location = new Point(337, 147);
+            textBox1.Location = new Point(340, 168);
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(125, 27);
             textBox1.TabIndex = 0;
@@ -44,7 +44,7 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(82, 154);
+            label1.Location = new Point(68, 191);
             label1.Name = "label1";
             label1.Size = new Size(163, 20);
             label1.TabIndex = 1;
@@ -64,7 +64,8 @@
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            BackgroundImage = Properties.Resources.vehicles;
+            ClientSize = new Size(567, 515);
             Controls.Add(button1);
             Controls.Add(label1);
             Controls.Add(textBox1);
