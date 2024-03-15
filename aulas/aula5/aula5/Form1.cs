@@ -35,7 +35,7 @@ namespace aula5
         private void button2_Click(object sender, EventArgs e)
         {
             conexao conexao = new conexao();
-            if (conexao.cadastrar(txtnome.Text,txtemail.Text,txtsenha.Text)>=1)
+            if (conexao.cadastrar(txtnome.Text, txtemail.Text, txtsenha.Text) >= 1)
             {
                 MessageBox.Show("Cadastro realizado com sucesso!");
             }
@@ -43,6 +43,13 @@ namespace aula5
             {
                 MessageBox.Show("Erro no cadastro!");
             }
+        }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+            int codigo= Convert.ToInt32(dataGridView1.Rows[e.RowIndex].Cells[e.ColumnIndex].Value);
+            label1.Text = codigo.ToString();
+            txtnome.Text= dataGridView1.Rows[e.RowIndex].Cells[e.ColumnIndex].Value.ToString();
         }
     }
 }

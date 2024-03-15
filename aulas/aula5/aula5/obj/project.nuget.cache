@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "euOQwGGKYDjuI3sbx0/hSAwn/8iFcoVruwfR3FrmgaGPZ1Bbd01+aX0CuNa/PlgcLNZdn53tVp9wwqU5ImvWTA==",
+  "dgSpecHash": "mP8ELi6p4gINoSW/Bnsk9A1crWOyLsP07x2lj5qt+5YMfkFGbNZ5vhWdPDbSbDcOj6RlLqbIH0VClt+p996BfA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aluno\\source\\repos\\aula5\\aula5\\aula5.csproj",
+  "projectFilePath": "C:\\Users\\aluno\\Documents\\GitHub\\curso-tecnico-2024\\aulas\\aula5\\aula5\\aula5.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aluno\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\aluno\\.nuget\\packages\\google.protobuf\\3.25.1\\google.protobuf.3.25.1.nupkg.sha512",

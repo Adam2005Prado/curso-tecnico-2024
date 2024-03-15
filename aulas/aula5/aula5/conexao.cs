@@ -1,6 +1,7 @@
 ﻿using MySql.Data.MySqlClient;
 using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -36,6 +37,15 @@ namespace aula5
             } 
             return cadastro;
         }
-       
+       public DataTable obterdados(string sql)
+        {
+            DataTable dt = new DataTable();
+            conn=getconexao();
+            conn.Open();
+            MySqlCommand cmd= new MySqlCommand(sql, conn);
+            MySqlDataAdapter adapter = new MySqlDataAdapter(cmd);  
+            adapter.Fill(dt);
+            return dt;
+        }
     }
 }
