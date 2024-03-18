@@ -37,12 +37,14 @@
             txtsenha = new TextBox();
             btncadastrar = new Button();
             dataGridView1 = new DataGridView();
+            btneditar = new Button();
+            btnexcluir = new Button();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             SuspendLayout();
             // 
             // button1
             // 
-            button1.Location = new Point(411, 202);
+            button1.Location = new Point(226, 386);
             button1.Name = "button1";
             button1.Size = new Size(75, 23);
             button1.TabIndex = 0;
@@ -100,7 +102,7 @@
             // 
             // btncadastrar
             // 
-            btncadastrar.Location = new Point(435, 134);
+            btncadastrar.Location = new Point(226, 310);
             btncadastrar.Name = "btncadastrar";
             btncadastrar.Size = new Size(75, 23);
             btncadastrar.TabIndex = 7;
@@ -118,11 +120,33 @@
             dataGridView1.TabIndex = 8;
             dataGridView1.CellContentClick += dataGridView1_CellContentClick;
             // 
+            // btneditar
+            // 
+            btneditar.Location = new Point(131, 310);
+            btneditar.Name = "btneditar";
+            btneditar.Size = new Size(75, 23);
+            btneditar.TabIndex = 9;
+            btneditar.Text = "Editar";
+            btneditar.UseVisualStyleBackColor = true;
+            btneditar.Click += btneditar_Click;
+            // 
+            // btnexcluir
+            // 
+            btnexcluir.Location = new Point(356, 310);
+            btnexcluir.Name = "btnexcluir";
+            btnexcluir.Size = new Size(75, 23);
+            btnexcluir.TabIndex = 10;
+            btnexcluir.Text = "excluir";
+            btnexcluir.UseVisualStyleBackColor = true;
+            btnexcluir.Click += btnexcluir_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(btnexcluir);
+            Controls.Add(btneditar);
             Controls.Add(dataGridView1);
             Controls.Add(btncadastrar);
             Controls.Add(txtsenha);
@@ -151,5 +175,7 @@
         private TextBox txtsenha;
         private Button btncadastrar;
         private DataGridView dataGridView1;
+        private Button btneditar;
+        private Button btnexcluir;
     }
 }
