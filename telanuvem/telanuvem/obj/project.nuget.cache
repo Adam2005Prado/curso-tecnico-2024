@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YB30EQ7H4MPtuNRrjgCoqbYJogL4gcpstzig7r2Dtl+3QS/irgl7iqY6IHmYXk3KLTzik20hw4K8sE4AFz9MOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aluno\\source\\repos\\telanuvem\\telanuvem\\telanuvem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
