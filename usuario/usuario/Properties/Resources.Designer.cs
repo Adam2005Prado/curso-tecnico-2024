@@ -63,6 +63,36 @@ namespace usuario.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap HistóricoDUPLICADA {
+            get {
+                object obj = ResourceManager.GetObject("HistóricoDUPLICADA", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Seleção_do_Livro___Catalogo {
+            get {
+                object obj = ResourceManager.GetObject("Seleção do Livro - Catalogo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Sobre_Nós {
+            get {
+                object obj = ResourceManager.GetObject("Sobre Nós", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Usuário_Duplicada {
             get {
                 object obj = ResourceManager.GetObject("Usuário Duplicada", resourceCulture);
@@ -76,6 +106,16 @@ namespace usuario.Properties {
         internal static System.Drawing.Bitmap Usuário_Duplicada1 {
             get {
                 object obj = ResourceManager.GetObject("Usuário Duplicada1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Wallpaper_Modelo_1_laboratorios {
+            get {
+                object obj = ResourceManager.GetObject("Wallpaper Modelo 1 laboratorios", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
