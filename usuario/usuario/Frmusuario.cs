@@ -1,7 +1,12 @@
+using Minha_Parte_Biblio.Modelo;
+using System.Data;
+
 namespace usuario
 {
     public partial class Frmusuario : Form
     {
+        int codigo;
+        
         public Frmusuario()
         {
             InitializeComponent();
@@ -32,6 +37,21 @@ namespace usuario
             FrmhistLivros frmhistLivros = new FrmhistLivros();
             this.Hide();
             frmhistLivros.ShowDialog();
+        }
+
+        private void Frmusuario_Load(object sender, EventArgs e)
+        {
+            codigo=
+            ClUserModelo clUserModelo = new ClUserModelo();
+            DataTable dt = new DataTable();
+            string username;
+            conexao conexao = new conexao();
+          dt= conexao.obterdados("select*from Table_User where ID_Aluno= "+codigo);
+            username= dt.Rows[0][1].ToString();
+            txtusername.Text = username;
+            
+           
+            
         }
     }
 }

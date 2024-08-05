@@ -30,14 +30,14 @@
         {
             txtusername = new TextBox();
             txtnomecompleto = new TextBox();
-            txtanoescolar = new TextBox();
             txtidaluno = new TextBox();
-            txtcargo = new TextBox();
             vhrusuario1 = new Button();
             btnsalvaralteracao = new Button();
             sausuario = new Panel();
             lblvhrusuario = new Panel();
             fotousuario = new PictureBox();
+            cbanoescolar = new ComboBox();
+            cbcargo = new ComboBox();
             sausuario.SuspendLayout();
             lblvhrusuario.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)fotousuario).BeginInit();
@@ -45,40 +45,28 @@
             // 
             // txtusername
             // 
-            txtusername.Location = new Point(47, 273);
+            txtusername.BorderStyle = BorderStyle.None;
+            txtusername.Location = new Point(47, 276);
             txtusername.Name = "txtusername";
-            txtusername.Size = new Size(445, 27);
+            txtusername.Size = new Size(445, 20);
             txtusername.TabIndex = 0;
             txtusername.TextChanged += textBox1_TextChanged;
             // 
             // txtnomecompleto
             // 
             txtnomecompleto.BorderStyle = BorderStyle.None;
-            txtnomecompleto.Location = new Point(46, 429);
+            txtnomecompleto.Location = new Point(46, 431);
             txtnomecompleto.Name = "txtnomecompleto";
             txtnomecompleto.Size = new Size(446, 20);
             txtnomecompleto.TabIndex = 1;
             // 
-            // txtanoescolar
-            // 
-            txtanoescolar.Location = new Point(568, 425);
-            txtanoescolar.Name = "txtanoescolar";
-            txtanoescolar.Size = new Size(445, 27);
-            txtanoescolar.TabIndex = 2;
-            // 
             // txtidaluno
             // 
-            txtidaluno.Location = new Point(48, 581);
+            txtidaluno.BorderStyle = BorderStyle.None;
+            txtidaluno.Location = new Point(48, 586);
             txtidaluno.Name = "txtidaluno";
-            txtidaluno.Size = new Size(445, 27);
+            txtidaluno.Size = new Size(445, 20);
             txtidaluno.TabIndex = 3;
-            // 
-            // txtcargo
-            // 
-            txtcargo.Location = new Point(567, 583);
-            txtcargo.Name = "txtcargo";
-            txtcargo.Size = new Size(445, 27);
-            txtcargo.TabIndex = 4;
             // 
             // vhrusuario1
             // 
@@ -131,24 +119,41 @@
             fotousuario.TabStop = false;
             fotousuario.Click += fotousuario_Click;
             // 
+            // cbanoescolar
+            // 
+            cbanoescolar.FormattingEnabled = true;
+            cbanoescolar.Location = new Point(567, 424);
+            cbanoescolar.Name = "cbanoescolar";
+            cbanoescolar.Size = new Size(446, 28);
+            cbanoescolar.TabIndex = 10;
+            // 
+            // cbcargo
+            // 
+            cbcargo.FormattingEnabled = true;
+            cbcargo.Location = new Point(567, 582);
+            cbcargo.Name = "cbcargo";
+            cbcargo.Size = new Size(446, 28);
+            cbcargo.TabIndex = 11;
+            // 
             // Frmusuario
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackgroundImage = Properties.Resources.Usuário_Duplicada1;
             ClientSize = new Size(1497, 898);
+            Controls.Add(cbcargo);
+            Controls.Add(cbanoescolar);
             Controls.Add(fotousuario);
             Controls.Add(lblvhrusuario);
             Controls.Add(sausuario);
-            Controls.Add(txtcargo);
             Controls.Add(txtidaluno);
-            Controls.Add(txtanoescolar);
             Controls.Add(txtnomecompleto);
             Controls.Add(txtusername);
             Name = "Frmusuario";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "usuario";
             FormClosed += Frmusuario_FormClosed;
+            Load += Frmusuario_Load;
             sausuario.ResumeLayout(false);
             lblvhrusuario.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)fotousuario).EndInit();
@@ -160,13 +165,13 @@
 
         private TextBox txtusername;
         private TextBox txtnomecompleto;
-        private TextBox txtanoescolar;
         private TextBox txtidaluno;
-        private TextBox txtcargo;
         private Button vhrusuario1;
         private Button btnsalvaralteracao;
         private Panel sausuario;
         private Panel lblvhrusuario;
         private PictureBox fotousuario;
+        private ComboBox cbanoescolar;
+        private ComboBox cbcargo;
     }
 }
