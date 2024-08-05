@@ -47,7 +47,7 @@ namespace usuario
             string username;
             conexao conexao = new conexao();
           dt= conexao.obterdados("select*from Table_User where ID_Aluno= "+codigo);
-            username= dt.Rows[0][1].ToString();
+            username= dt.Rows[0][0].ToString();
             txtusername.Text = username;
             
            
