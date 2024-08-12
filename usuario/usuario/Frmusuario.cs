@@ -8,6 +8,7 @@ namespace usuario
 
         ClUserModelo codigo = new ClUserModelo();
         DataTable dt = new DataTable();
+        ClConnection conexao = new ClConnection();
         public Frmusuario()
         {
             InitializeComponent();
@@ -20,6 +21,16 @@ namespace usuario
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            cbcargo.DataSource = conexao.obterdados("select * from Table_Cargo");
+            cbcargo.DisplayMember = "Cargo";
+            cbcargo.ValueMember = "CD_Cargo";
+            cbanoescolar.DataSource = conexao.obterdados("Select * from  Table_Ano_Escolar");
+            cbanoescolar.DisplayMember = "Ano_Escolar";
+            cbanoescolar.ValueMember = "CD_Ano_Escolar";
+            cbunidade.DataSource= conexao.obterdados("select* from Table_Unidade");
+            cbunidade.DisplayMember = "Unidade";
+            cbunidade.ValueMember = "CD_Unidade";
+
 
         }
 
@@ -43,7 +54,7 @@ namespace usuario
         private void Frmusuario_Load(object sender, EventArgs e)
         {
 
-            codigo.ID_Aluno = "1";
+            codigo.ID_Aluno = "23";
             string ID_Aluno;
             string nameuser;
             string nomecompleto;
@@ -55,7 +66,7 @@ namespace usuario
 
             ClConnection conexao = new ClConnection();
             dt = conexao.obterdados("select * from Table_User where ID_Aluno = " + codigo.ID_Aluno);
-            nameuser = dt.Rows[0]["nameuser"].ToString();
+            nameuser = dt.Rows[0]["NameUser"].ToString();
             ID_Aluno = dt.Rows[0]["ID_Aluno"].ToString();
             nomecompleto = dt.Rows[0]["Nome_Completo"].ToString();
             senha = dt.Rows[0]["Senha"].ToString();
@@ -64,12 +75,18 @@ namespace usuario
             CFK_Cargo = Convert.ToInt32(dt.Rows[0]["CFK_Cargo"]);
             CFK_Unidade = Convert.ToInt32(dt.Rows[0]["CFK_Unidade"]);
 
-            nameuser.ToString
 
-            cbanoescolar.SelectedIndex = CFK_Ano;
-            cbcargo.SelectedIndex = CFK_Cargo;
-            cbunidade.SelectedIndex = CFK_Unidade;
+            txtusername.Text = nameuser;
+            txtidaluno.Text = ID_Aluno;
+            txtnomecompleto.Text = nomecompleto;
+            txtsenha.Text = senha;
+            //fotousuario.Image = Image.FromFile(IMG_User);
+            cbanoescolar.SelectedIndex = 1;
+            cbcargo.SelectedIndex = 1;
+            cbunidade.SelectedIndex = 1;    
 
+            cbcargo.SelectedIndex = CFK_Cargo-1;
+            cbunidade.SelectedIndex = CFK_Unidade-1;
 
 
         }
