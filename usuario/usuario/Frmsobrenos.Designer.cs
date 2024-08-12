@@ -39,6 +39,7 @@
             Name = "Frmsobrenos";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Frmsobrenos";
+            Load += Frmsobrenos_Load;
             ResumeLayout(false);
         }
 

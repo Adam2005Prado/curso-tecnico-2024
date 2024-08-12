@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4O2HlKvtKcqj01pvMxYoqO/WiYa+GQ8TdhYTtoZZ9pv9WBoUGONyQanq9KwFaes7A8ixIHNLDn57z8/G5tLB2Q==",
+  "dgSpecHash": "hprAyTjxjkmkaj1GzJVBt+rVCKQKscR3DnhD0UWiFKTG9jDvx6IXRFQymh/a9Svf9g4VKOiUwUg7StQJk53+gA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aluno\\Downloads\\curso-tecnico-2024-main\\curso-tecnico-2024-main\\usuario\\usuario\\usuario.csproj",
+  "projectFilePath": "C:\\Users\\Aluno\\Documents\\GitHub\\curso-tecnico-2024\\usuario\\usuario\\usuario.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aluno\\.nuget\\packages\\bouncycastle.cryptography\\2.3.1\\bouncycastle.cryptography.2.3.1.nupkg.sha512",
     "C:\\Users\\Aluno\\.nuget\\packages\\google.protobuf\\3.26.1\\google.protobuf.3.26.1.nupkg.sha512",

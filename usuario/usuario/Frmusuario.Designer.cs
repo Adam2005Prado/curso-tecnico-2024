@@ -28,19 +28,25 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Frmusuario));
             txtusername = new TextBox();
             txtnomecompleto = new TextBox();
             txtidaluno = new TextBox();
             vhrusuario1 = new Button();
-            btnsalvaralteracao = new Button();
-            sausuario = new Panel();
             lblvhrusuario = new Panel();
+            button3 = new Button();
             fotousuario = new PictureBox();
             cbanoescolar = new ComboBox();
             cbcargo = new ComboBox();
-            sausuario.SuspendLayout();
+            cbunidade = new ComboBox();
+            panel1 = new Panel();
+            button2 = new Button();
+            btnhistorico = new Button();
+            button1 = new Button();
+            txtsenha = new TextBox();
             lblvhrusuario.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)fotousuario).BeginInit();
+            panel1.SuspendLayout();
             SuspendLayout();
             // 
             // txtusername
@@ -72,40 +78,33 @@
             // 
             vhrusuario1.BackColor = Color.Transparent;
             vhrusuario1.FlatStyle = FlatStyle.Popup;
-            vhrusuario1.Location = new Point(-2, 0);
+            vhrusuario1.Location = new Point(-2, 79);
             vhrusuario1.Name = "vhrusuario1";
             vhrusuario1.Size = new Size(447, 55);
             vhrusuario1.TabIndex = 5;
             vhrusuario1.UseVisualStyleBackColor = false;
             vhrusuario1.Click += vhrusuario1_Click;
             // 
-            // btnsalvaralteracao
-            // 
-            btnsalvaralteracao.BackColor = Color.Transparent;
-            btnsalvaralteracao.FlatStyle = FlatStyle.Popup;
-            btnsalvaralteracao.Location = new Point(-13, -12);
-            btnsalvaralteracao.Name = "btnsalvaralteracao";
-            btnsalvaralteracao.Size = new Size(473, 83);
-            btnsalvaralteracao.TabIndex = 6;
-            btnsalvaralteracao.UseVisualStyleBackColor = false;
-            // 
-            // sausuario
-            // 
-            sausuario.BackColor = Color.Transparent;
-            sausuario.Controls.Add(btnsalvaralteracao);
-            sausuario.Location = new Point(567, 714);
-            sausuario.Name = "sausuario";
-            sausuario.Size = new Size(446, 55);
-            sausuario.TabIndex = 7;
-            // 
             // lblvhrusuario
             // 
             lblvhrusuario.BackColor = Color.Transparent;
+            lblvhrusuario.Controls.Add(button3);
             lblvhrusuario.Controls.Add(vhrusuario1);
-            lblvhrusuario.Location = new Point(48, 714);
+            lblvhrusuario.Location = new Point(576, 791);
             lblvhrusuario.Name = "lblvhrusuario";
             lblvhrusuario.Size = new Size(445, 55);
             lblvhrusuario.TabIndex = 8;
+            // 
+            // button3
+            // 
+            button3.BackColor = Color.Transparent;
+            button3.FlatStyle = FlatStyle.Flat;
+            button3.Location = new Point(-9, -7);
+            button3.Name = "button3";
+            button3.Size = new Size(454, 77);
+            button3.TabIndex = 8;
+            button3.UseVisualStyleBackColor = false;
+            button3.Click += button3_Click_2;
             // 
             // fotousuario
             // 
@@ -121,6 +120,7 @@
             // 
             // cbanoescolar
             // 
+            cbanoescolar.FlatStyle = FlatStyle.Flat;
             cbanoescolar.FormattingEnabled = true;
             cbanoescolar.Location = new Point(567, 424);
             cbanoescolar.Name = "cbanoescolar";
@@ -129,23 +129,85 @@
             // 
             // cbcargo
             // 
+            cbcargo.FlatStyle = FlatStyle.Flat;
             cbcargo.FormattingEnabled = true;
             cbcargo.Location = new Point(567, 582);
             cbcargo.Name = "cbcargo";
             cbcargo.Size = new Size(446, 28);
             cbcargo.TabIndex = 11;
             // 
+            // cbunidade
+            // 
+            cbunidade.FlatStyle = FlatStyle.Flat;
+            cbunidade.FormattingEnabled = true;
+            cbunidade.Location = new Point(567, 273);
+            cbunidade.Name = "cbunidade";
+            cbunidade.Size = new Size(446, 28);
+            cbunidade.TabIndex = 12;
+            // 
+            // panel1
+            // 
+            panel1.BackColor = Color.Transparent;
+            panel1.Controls.Add(button2);
+            panel1.Controls.Add(btnhistorico);
+            panel1.Controls.Add(button1);
+            panel1.Location = new Point(48, 795);
+            panel1.Name = "panel1";
+            panel1.Size = new Size(445, 55);
+            panel1.TabIndex = 13;
+            panel1.Paint += panel1_Paint;
+            // 
+            // button2
+            // 
+            button2.BackColor = Color.Transparent;
+            button2.FlatStyle = FlatStyle.Flat;
+            button2.Location = new Point(-5, -11);
+            button2.Name = "button2";
+            button2.Size = new Size(454, 77);
+            button2.TabIndex = 7;
+            button2.UseVisualStyleBackColor = false;
+            // 
+            // btnhistorico
+            // 
+            btnhistorico.BackColor = Color.Transparent;
+            btnhistorico.FlatStyle = FlatStyle.Flat;
+            btnhistorico.Location = new Point(-2, -11);
+            btnhistorico.Name = "btnhistorico";
+            btnhistorico.Size = new Size(454, 77);
+            btnhistorico.TabIndex = 6;
+            btnhistorico.UseVisualStyleBackColor = false;
+            // 
+            // button1
+            // 
+            button1.BackColor = Color.Transparent;
+            button1.FlatStyle = FlatStyle.Popup;
+            button1.Location = new Point(-2, 79);
+            button1.Name = "button1";
+            button1.Size = new Size(447, 55);
+            button1.TabIndex = 5;
+            button1.UseVisualStyleBackColor = false;
+            // 
+            // txtsenha
+            // 
+            txtsenha.BorderStyle = BorderStyle.None;
+            txtsenha.Location = new Point(48, 741);
+            txtsenha.Name = "txtsenha";
+            txtsenha.Size = new Size(445, 20);
+            txtsenha.TabIndex = 14;
+            // 
             // Frmusuario
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            BackgroundImage = Properties.Resources.Usuário_Duplicada1;
+            BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
             ClientSize = new Size(1497, 898);
+            Controls.Add(txtsenha);
+            Controls.Add(panel1);
+            Controls.Add(cbunidade);
             Controls.Add(cbcargo);
             Controls.Add(cbanoescolar);
             Controls.Add(fotousuario);
             Controls.Add(lblvhrusuario);
-            Controls.Add(sausuario);
             Controls.Add(txtidaluno);
             Controls.Add(txtnomecompleto);
             Controls.Add(txtusername);
@@ -154,9 +216,9 @@
             Text = "usuario";
             FormClosed += Frmusuario_FormClosed;
             Load += Frmusuario_Load;
-            sausuario.ResumeLayout(false);
             lblvhrusuario.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)fotousuario).EndInit();
+            panel1.ResumeLayout(false);
             ResumeLayout(false);
             PerformLayout();
         }
@@ -167,11 +229,16 @@
         private TextBox txtnomecompleto;
         private TextBox txtidaluno;
         private Button vhrusuario1;
-        private Button btnsalvaralteracao;
-        private Panel sausuario;
         private Panel lblvhrusuario;
         private PictureBox fotousuario;
         private ComboBox cbanoescolar;
         private ComboBox cbcargo;
+        private ComboBox cbunidade;
+        private Panel panel1;
+        private Button button1;
+        private Button btnhistorico;
+        private Button button3;
+        private Button button2;
+        private TextBox txtsenha;
     }
 }

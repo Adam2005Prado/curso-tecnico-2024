@@ -5,8 +5,9 @@ namespace usuario
 {
     public partial class Frmusuario : Form
     {
-        int codigo;
-        
+
+        ClUserModelo codigo = new ClUserModelo();
+        DataTable dt = new DataTable();
         public Frmusuario()
         {
             InitializeComponent();
@@ -41,17 +42,56 @@ namespace usuario
 
         private void Frmusuario_Load(object sender, EventArgs e)
         {
-            codigo=
-            ClUserModelo clUserModelo = new ClUserModelo();
-            DataTable dt = new DataTable();
-            string username;
-            conexao conexao = new conexao();
-          dt= conexao.obterdados("select*from Table_User where ID_Aluno= "+codigo);
-            username= dt.Rows[0][0].ToString();
-            txtusername.Text = username;
-            
-           
-            
+
+            codigo.ID_Aluno = "1";
+            string ID_Aluno;
+            string nameuser;
+            string nomecompleto;
+            string senha;
+            string IMG_User;
+            int CFK_Ano;
+            int CFK_Cargo;
+            int CFK_Unidade;
+
+            ClConnection conexao = new ClConnection();
+            dt = conexao.obterdados("select * from Table_User where ID_Aluno = " + codigo.ID_Aluno);
+            nameuser = dt.Rows[0]["nameuser"].ToString();
+            ID_Aluno = dt.Rows[0]["ID_Aluno"].ToString();
+            nomecompleto = dt.Rows[0]["Nome_Completo"].ToString();
+            senha = dt.Rows[0]["Senha"].ToString();
+            IMG_User = dt.Rows[0]["IMG_User"].ToString();
+            CFK_Ano = Convert.ToInt32(dt.Rows[0]["CFK_Ano"]);
+            CFK_Cargo = Convert.ToInt32(dt.Rows[0]["CFK_Cargo"]);
+            CFK_Unidade = Convert.ToInt32(dt.Rows[0]["CFK_Unidade"]);
+
+            nameuser.ToString
+
+            cbanoescolar.SelectedIndex = CFK_Ano;
+            cbcargo.SelectedIndex = CFK_Cargo;
+            cbunidade.SelectedIndex = CFK_Unidade;
+
+
+
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button3_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button3_Click_2(object sender, EventArgs e)
+        {
+
         }
     }
 }
