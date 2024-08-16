@@ -146,3 +146,7 @@ select Table_User.ID_Aluno,
     inner join Table_Ano_Escolar on Table_User.CFK_Ano = Table_Ano_Escolar.CD_Ano_Escolar
     inner join Table_Cargo on Table_User.CFK_Cargo = Table_Cargo.CD_Cargo
     inner join Table_Unidade on Table_User.CFK_Unidade = Table_Unidade.CD_Unidade;
+    
+    update Table_User set ID_Aluno="256", NameUser="Zag", Nome_Completo="Vagner Moura", Senha="01246", CFK_Cargo=3, CFK_Unidade=5, CFK_Ano=7 where ID_Aluno=24 LIMIT 1;
+    
+   -- update Table_User set ID_Aluno=@ID_Aluno, NameUser=@NameUser, Nome_Completo=@Nome_Completo, Senha=@Senha, CFK_Cargo=@CFK_Cargo, CFK_Unidade=@CFK_Unidade, CFK_Ano=@CFK_Ano where ID_Aluno=24 LIMIT 1;

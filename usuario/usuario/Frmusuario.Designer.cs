@@ -38,12 +38,15 @@
             txtsenha = new TextBox();
             fotousuario = new PictureBox();
             pnvhrusuario = new Panel();
+            btnvhrusuarios = new Button();
             pnsausuario = new Panel();
-            btnvhrusuario = new Button();
             btnsausuario = new Button();
+            btnexcluirusuario = new Button();
+            pnexcluirusuario = new Panel();
             ((System.ComponentModel.ISupportInitialize)fotousuario).BeginInit();
             pnvhrusuario.SuspendLayout();
             pnsausuario.SuspendLayout();
+            pnexcluirusuario.SuspendLayout();
             SuspendLayout();
             // 
             // txtusername
@@ -122,38 +125,59 @@
             // pnvhrusuario
             // 
             pnvhrusuario.BackColor = Color.Transparent;
-            pnvhrusuario.Controls.Add(btnvhrusuario);
-            pnvhrusuario.Location = new Point(133, 650);
+            pnvhrusuario.Controls.Add(btnvhrusuarios);
+            pnvhrusuario.Location = new Point(562, 533);
             pnvhrusuario.Name = "pnvhrusuario";
             pnvhrusuario.Size = new Size(447, 58);
             pnvhrusuario.TabIndex = 15;
+            // 
+            // btnvhrusuarios
+            // 
+            btnvhrusuarios.FlatStyle = FlatStyle.Popup;
+            btnvhrusuarios.Location = new Point(1, 3);
+            btnvhrusuarios.Name = "btnvhrusuarios";
+            btnvhrusuarios.Size = new Size(450, 52);
+            btnvhrusuarios.TabIndex = 0;
+            btnvhrusuarios.UseVisualStyleBackColor = true;
+            btnvhrusuarios.Click += btnvhrusuarios_Click;
             // 
             // pnsausuario
             // 
             pnsausuario.BackColor = Color.Transparent;
             pnsausuario.Controls.Add(btnsausuario);
-            pnsausuario.Location = new Point(654, 650);
+            pnsausuario.Location = new Point(561, 635);
             pnsausuario.Name = "pnsausuario";
-            pnsausuario.Size = new Size(452, 58);
+            pnsausuario.Size = new Size(452, 53);
             pnsausuario.TabIndex = 16;
-            // 
-            // btnvhrusuario
-            // 
-            btnvhrusuario.FlatStyle = FlatStyle.Flat;
-            btnvhrusuario.Location = new Point(-3, 3);
-            btnvhrusuario.Name = "btnvhrusuario";
-            btnvhrusuario.Size = new Size(450, 52);
-            btnvhrusuario.TabIndex = 0;
-            btnvhrusuario.UseVisualStyleBackColor = true;
             // 
             // btnsausuario
             // 
-            btnsausuario.FlatStyle = FlatStyle.Flat;
-            btnsausuario.Location = new Point(0, 3);
+            btnsausuario.FlatStyle = FlatStyle.Popup;
+            btnsausuario.Location = new Point(2, -2);
             btnsausuario.Name = "btnsausuario";
             btnsausuario.Size = new Size(452, 52);
             btnsausuario.TabIndex = 1;
             btnsausuario.UseVisualStyleBackColor = true;
+            btnsausuario.Click += btnsausuario_Click;
+            // 
+            // btnexcluirusuario
+            // 
+            btnexcluirusuario.FlatStyle = FlatStyle.Popup;
+            btnexcluirusuario.Location = new Point(-14, -1);
+            btnexcluirusuario.Name = "btnexcluirusuario";
+            btnexcluirusuario.Size = new Size(534, 52);
+            btnexcluirusuario.TabIndex = 2;
+            btnexcluirusuario.UseVisualStyleBackColor = true;
+            btnexcluirusuario.Click += btnexcluirusuario_Click;
+            // 
+            // pnexcluirusuario
+            // 
+            pnexcluirusuario.BackColor = Color.Transparent;
+            pnexcluirusuario.Controls.Add(btnexcluirusuario);
+            pnexcluirusuario.Location = new Point(77, 662);
+            pnexcluirusuario.Name = "pnexcluirusuario";
+            pnexcluirusuario.Size = new Size(365, 53);
+            pnexcluirusuario.TabIndex = 17;
             // 
             // Frmusuario
             // 
@@ -161,6 +185,7 @@
             AutoScaleMode = AutoScaleMode.Font;
             BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
             ClientSize = new Size(1500, 758);
+            Controls.Add(pnexcluirusuario);
             Controls.Add(pnsausuario);
             Controls.Add(pnvhrusuario);
             Controls.Add(txtsenha);
@@ -180,6 +205,7 @@
             ((System.ComponentModel.ISupportInitialize)fotousuario).EndInit();
             pnvhrusuario.ResumeLayout(false);
             pnsausuario.ResumeLayout(false);
+            pnexcluirusuario.ResumeLayout(false);
             ResumeLayout(false);
             PerformLayout();
         }
@@ -195,7 +221,6 @@
         private ComboBox cbcargo;
         private ComboBox cbunidade;
         private Panel pnsausuario;
-        private Button btnvhrusuario;
         private Button btnhistorico;
         private Button button3;
         private Button button2;
@@ -203,5 +228,8 @@
         private PictureBox fotousuario;
         private Panel pnvhrusuario;
         private Button btnsausuario;
+        private Button btnvhrusuarios;
+        private Button btnexcluirusuario;
+        private Panel pnexcluirusuario;
     }
 }

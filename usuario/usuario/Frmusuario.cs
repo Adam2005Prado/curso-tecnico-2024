@@ -30,12 +30,13 @@ namespace usuario
             Application.Exit();
         }
 
-        //private void vhrusuario1_Click(object sender, EventArgs e)
-       // {
+        private void btnvhrusuario(object sender, EventArgs e)
+        {
+
             FrmhistLivros frmhistLivros = new FrmhistLivros();
             this.Hide();
             frmhistLivros.ShowDialog();
-       // }
+        }
 
         private void Frmusuario_Load(object sender, EventArgs e)
         {
@@ -97,6 +98,22 @@ namespace usuario
         }
 
         private void txtidaluno_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnvhrusuarios_Click(object sender, EventArgs e)
+        {
+            FrmhistLivros frmhistLivros = new FrmhistLivros();
+            frmhistLivros.ShowDialog();
+        }
+
+        private void btnexcluirusuario_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnsausuario_Click(object sender, EventArgs e)
         {
 
         }
