@@ -19,20 +19,6 @@ namespace usuario
 
         }
 
-        private void Form1_Load(object sender, EventArgs e)
-        {
-            cbcargo.DataSource = conexao.obterdados("select * from Table_Cargo");
-            cbcargo.DisplayMember = "Cargo";
-            cbcargo.ValueMember = "CD_Cargo";
-            cbanoescolar.DataSource = conexao.obterdados("Select * from  Table_Ano_Escolar");
-            cbanoescolar.DisplayMember = "Ano_Escolar";
-            cbanoescolar.ValueMember = "CD_Ano_Escolar";
-            cbunidade.DataSource= conexao.obterdados("select* from Table_Unidade");
-            cbunidade.DisplayMember = "Unidade";
-            cbunidade.ValueMember = "CD_Unidade";
-
-
-        }
 
         private void fotousuario_Click(object sender, EventArgs e)
         {
@@ -44,17 +30,27 @@ namespace usuario
             Application.Exit();
         }
 
-        private void vhrusuario1_Click(object sender, EventArgs e)
-        {
+        //private void vhrusuario1_Click(object sender, EventArgs e)
+       // {
             FrmhistLivros frmhistLivros = new FrmhistLivros();
             this.Hide();
             frmhistLivros.ShowDialog();
-        }
+       // }
 
         private void Frmusuario_Load(object sender, EventArgs e)
         {
 
-            codigo.ID_Aluno = "23";
+            cbcargo.DataSource = conexao.obterdados("select * from Table_Cargo");
+            cbcargo.DisplayMember = "Cargo";
+            cbcargo.ValueMember = "CD_Cargo";
+            cbanoescolar.DataSource = conexao.obterdados("Select * from  Table_Ano_Escolar");
+            cbanoescolar.DisplayMember = "Ano_Escolar";
+            cbanoescolar.ValueMember = "CD_Ano_Escolar";
+            cbunidade.DataSource = conexao.obterdados("select * from Table_Unidade");
+            cbunidade.DisplayMember = "Nome_Unidade";
+            cbunidade.ValueMember = "CD_Unidade";
+
+            codigo.ID_Aluno = "24";
             string ID_Aluno;
             string nameuser;
             string nomecompleto;
@@ -64,8 +60,8 @@ namespace usuario
             int CFK_Cargo;
             int CFK_Unidade;
 
-            ClConnection conexao = new ClConnection();
-            dt = conexao.obterdados("select * from Table_User where ID_Aluno = " + codigo.ID_Aluno);
+
+            dt = conexao.obterdados("select * from Table_User where ID_Aluno =" + codigo.ID_Aluno);
             nameuser = dt.Rows[0]["NameUser"].ToString();
             ID_Aluno = dt.Rows[0]["ID_Aluno"].ToString();
             nomecompleto = dt.Rows[0]["Nome_Completo"].ToString();
@@ -81,12 +77,11 @@ namespace usuario
             txtnomecompleto.Text = nomecompleto;
             txtsenha.Text = senha;
             //fotousuario.Image = Image.FromFile(IMG_User);
-            cbanoescolar.SelectedIndex = 1;
-            cbcargo.SelectedIndex = 1;
-            cbunidade.SelectedIndex = 1;    
 
-            cbcargo.SelectedIndex = CFK_Cargo-1;
-            cbunidade.SelectedIndex = CFK_Unidade-1;
+            cbanoescolar.SelectedIndex = CFK_Ano - 1;
+
+            cbcargo.SelectedIndex = CFK_Cargo - 1;
+            cbunidade.SelectedIndex = CFK_Unidade - 1;
 
 
         }
@@ -101,14 +96,10 @@ namespace usuario
 
         }
 
-        private void button3_Click_1(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button3_Click_2(object sender, EventArgs e)
+        private void txtidaluno_TextChanged(object sender, EventArgs e)
         {
 
         }
     }
 }
+        

@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Aluno\\Documents\\GitHub\\curso-tecnico-2024\\usuario\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8A0BD41D-AA7A-4247-87EE-D408FD2BA286}|usuario\\usuario.csproj|c:\\users\\aluno\\documents\\github\\curso-tecnico-2024\\usuario\\usuario\\frmusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A0BD41D-AA7A-4247-87EE-D408FD2BA286}|usuario\\usuario.csproj|solutionrelative:usuario\\frmusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8A0BD41D-AA7A-4247-87EE-D408FD2BA286}|usuario\\usuario.csproj|C:\\Users\\Aluno\\Documents\\GitHub\\curso-tecnico-2024\\usuario\\usuario\\frmusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8A0BD41D-AA7A-4247-87EE-D408FD2BA286}|usuario\\usuario.csproj|solutionrelative:usuario\\frmusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A0BD41D-AA7A-4247-87EE-D408FD2BA286}|usuario\\usuario.csproj|c:\\users\\aluno\\documents\\github\\curso-tecnico-2024\\usuario\\usuario\\frmusuario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8A0BD41D-AA7A-4247-87EE-D408FD2BA286}|usuario\\usuario.csproj|C:\\Users\\Aluno\\Documents\\GitHub\\curso-tecnico-2024\\usuario\\usuario\\frmusuario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A0BD41D-AA7A-4247-87EE-D408FD2BA286}|usuario\\usuario.csproj|solutionrelative:usuario\\frmusuario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0BD41D-AA7A-4247-87EE-D408FD2BA286}|usuario\\usuario.csproj|C:\\Users\\Aluno\\Documents\\GitHub\\curso-tecnico-2024\\usuario\\usuario\\frmusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0BD41D-AA7A-4247-87EE-D408FD2BA286}|usuario\\usuario.csproj|solutionrelative:usuario\\frmusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0BD41D-AA7A-4247-87EE-D408FD2BA286}|usuario\\usuario.csproj|c:\\users\\aluno\\documents\\github\\curso-tecnico-2024\\usuario\\usuario\\clconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0BD41D-AA7A-4247-87EE-D408FD2BA286}|usuario\\usuario.csproj|solutionrelative:usuario\\clconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0BD41D-AA7A-4247-87EE-D408FD2BA286}|usuario\\usuario.csproj|c:\\users\\aluno\\documents\\github\\curso-tecnico-2024\\usuario\\usuario\\controle\\clusercontrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0BD41D-AA7A-4247-87EE-D408FD2BA286}|usuario\\usuario.csproj|solutionrelative:usuario\\controle\\clusercontrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0BD41D-AA7A-4247-87EE-D408FD2BA286}|usuario\\usuario.csproj|C:\\Users\\Aluno\\Documents\\GitHub\\curso-tecnico-2024\\usuario\\usuario\\modelo\\clusermodelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0BD41D-AA7A-4247-87EE-D408FD2BA286}|usuario\\usuario.csproj|solutionrelative:usuario\\modelo\\clusermodelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0BD41D-AA7A-4247-87EE-D408FD2BA286}|usuario\\usuario.csproj|C:\\Users\\Aluno\\Documents\\GitHub\\curso-tecnico-2024\\usuario\\usuario\\estantelivros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0BD41D-AA7A-4247-87EE-D408FD2BA286}|usuario\\usuario.csproj|solutionrelative:usuario\\estantelivros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8A0BD41D-AA7A-4247-87EE-D408FD2BA286}|usuario\\usuario.csproj|C:\\Users\\Aluno\\Documents\\GitHub\\curso-tecnico-2024\\usuario\\usuario\\estantelivros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -23,20 +39,8 @@
       "RelativeMoniker": "D:0:0:{8A0BD41D-AA7A-4247-87EE-D408FD2BA286}|usuario\\usuario.csproj|solutionrelative:usuario\\frmsobrenos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A0BD41D-AA7A-4247-87EE-D408FD2BA286}|usuario\\usuario.csproj|C:\\Users\\Aluno\\Documents\\GitHub\\curso-tecnico-2024\\usuario\\usuario\\clconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A0BD41D-AA7A-4247-87EE-D408FD2BA286}|usuario\\usuario.csproj|solutionrelative:usuario\\clconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8A0BD41D-AA7A-4247-87EE-D408FD2BA286}|usuario\\usuario.csproj|C:\\Users\\Aluno\\Documents\\GitHub\\curso-tecnico-2024\\usuario\\usuario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A0BD41D-AA7A-4247-87EE-D408FD2BA286}|usuario\\usuario.csproj|solutionrelative:usuario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A0BD41D-AA7A-4247-87EE-D408FD2BA286}|usuario\\usuario.csproj|C:\\Users\\Aluno\\Documents\\GitHub\\curso-tecnico-2024\\usuario\\usuario\\modelo\\clusermodelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A0BD41D-AA7A-4247-87EE-D408FD2BA286}|usuario\\usuario.csproj|solutionrelative:usuario\\modelo\\clusermodelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A0BD41D-AA7A-4247-87EE-D408FD2BA286}|usuario\\usuario.csproj|C:\\Users\\Aluno\\Documents\\GitHub\\curso-tecnico-2024\\usuario\\usuario\\estantelivros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A0BD41D-AA7A-4247-87EE-D408FD2BA286}|usuario\\usuario.csproj|solutionrelative:usuario\\estantelivros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8A0BD41D-AA7A-4247-87EE-D408FD2BA286}|usuario\\usuario.csproj|C:\\Users\\Aluno\\Documents\\GitHub\\curso-tecnico-2024\\usuario\\usuario\\estantelivros.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,67 +70,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Frmusuario.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\curso-tecnico-2024\\usuario\\usuario\\Frmusuario.Designer.cs",
-              "RelativeDocumentMoniker": "usuario\\Frmusuario.Designer.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\curso-tecnico-2024\\usuario\\usuario\\Frmusuario.Designer.cs",
-              "RelativeToolTip": "usuario\\Frmusuario.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 4,
+              "Title": "ClUsercontrole.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\curso-tecnico-2024\\usuario\\usuario\\Controle\\ClUsercontrole.cs",
+              "RelativeDocumentMoniker": "usuario\\Controle\\ClUsercontrole.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\curso-tecnico-2024\\usuario\\usuario\\Controle\\ClUsercontrole.cs",
+              "RelativeToolTip": "usuario\\Controle\\ClUsercontrole.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwB8AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T15:31:10.904Z",
+              "WhenOpened": "2024-08-16T12:09:26.098Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Frmsobrenos.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\curso-tecnico-2024\\usuario\\usuario\\Frmsobrenos.cs",
-              "RelativeDocumentMoniker": "usuario\\Frmsobrenos.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\curso-tecnico-2024\\usuario\\usuario\\Frmsobrenos.cs [Projeto]",
-              "RelativeToolTip": "usuario\\Frmsobrenos.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T12:00:14.712Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "estantelivros.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\curso-tecnico-2024\\usuario\\usuario\\estantelivros.cs",
-              "RelativeDocumentMoniker": "usuario\\estantelivros.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\curso-tecnico-2024\\usuario\\usuario\\estantelivros.cs [Projeto]",
-              "RelativeToolTip": "usuario\\estantelivros.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T12:00:06.612Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "ClUserModelo.cs",
               "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\curso-tecnico-2024\\usuario\\usuario\\Modelo\\ClUserModelo.cs",
               "RelativeDocumentMoniker": "usuario\\Modelo\\ClUserModelo.cs",
               "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\curso-tecnico-2024\\usuario\\usuario\\Modelo\\ClUserModelo.cs",
               "RelativeToolTip": "usuario\\Modelo\\ClUserModelo.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T11:54:17.982Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Frmusuario.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\curso-tecnico-2024\\usuario\\usuario\\Frmusuario.cs",
-              "RelativeDocumentMoniker": "usuario\\Frmusuario.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\curso-tecnico-2024\\usuario\\usuario\\Frmusuario.cs",
-              "RelativeToolTip": "usuario\\Frmusuario.cs",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAqwFkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T11:53:40.259Z",
+              "WhenOpened": "2024-08-12T11:54:17.982Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
+              "Title": "estantelivros.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\curso-tecnico-2024\\usuario\\usuario\\estantelivros.cs",
+              "RelativeDocumentMoniker": "usuario\\estantelivros.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\curso-tecnico-2024\\usuario\\usuario\\estantelivros.cs",
+              "RelativeToolTip": "usuario\\estantelivros.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T12:05:32.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Frmusuario.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\curso-tecnico-2024\\usuario\\usuario\\Frmusuario.cs",
               "RelativeDocumentMoniker": "usuario\\Frmusuario.cs",
@@ -138,19 +121,69 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "ClConnection.cs",
               "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\curso-tecnico-2024\\usuario\\usuario\\ClConnection.cs",
               "RelativeDocumentMoniker": "usuario\\ClConnection.cs",
               "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\curso-tecnico-2024\\usuario\\usuario\\ClConnection.cs",
               "RelativeToolTip": "usuario\\ClConnection.cs",
-              "ViewState": "AQIAAEYAAAAAAAAAAAAYwEsAAAAJAAAA",
+              "ViewState": "AQIAADYAAAAAAAAAAAAYwEIAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T12:03:08.688Z"
+              "WhenOpened": "2024-08-12T12:03:08.688Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
+              "Title": "Frmusuario.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\curso-tecnico-2024\\usuario\\usuario\\Frmusuario.Designer.cs",
+              "RelativeDocumentMoniker": "usuario\\Frmusuario.Designer.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\curso-tecnico-2024\\usuario\\usuario\\Frmusuario.Designer.cs",
+              "RelativeToolTip": "usuario\\Frmusuario.Designer.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAmwEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:31:10.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Frmusuario.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\curso-tecnico-2024\\usuario\\usuario\\Frmusuario.cs",
+              "RelativeDocumentMoniker": "usuario\\Frmusuario.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\curso-tecnico-2024\\usuario\\usuario\\Frmusuario.cs",
+              "RelativeToolTip": "usuario\\Frmusuario.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAswEwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T11:53:40.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Frmsobrenos.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\curso-tecnico-2024\\usuario\\usuario\\Frmsobrenos.cs",
+              "RelativeDocumentMoniker": "usuario\\Frmsobrenos.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\curso-tecnico-2024\\usuario\\usuario\\Frmsobrenos.cs [Projeto]",
+              "RelativeToolTip": "usuario\\Frmsobrenos.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T12:00:14.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "estantelivros.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\curso-tecnico-2024\\usuario\\usuario\\estantelivros.cs",
+              "RelativeDocumentMoniker": "usuario\\estantelivros.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\curso-tecnico-2024\\usuario\\usuario\\estantelivros.cs [Projeto]",
+              "RelativeToolTip": "usuario\\estantelivros.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T12:00:06.612Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\curso-tecnico-2024\\usuario\\usuario\\Program.cs",
               "RelativeDocumentMoniker": "usuario\\Program.cs",
@@ -162,7 +195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Frmsobrenos.cs",
               "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\curso-tecnico-2024\\usuario\\usuario\\Frmsobrenos.cs",
               "RelativeDocumentMoniker": "usuario\\Frmsobrenos.cs",
@@ -174,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "estantelivros.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\curso-tecnico-2024\\usuario\\usuario\\estantelivros.Designer.cs",
               "RelativeDocumentMoniker": "usuario\\estantelivros.Designer.cs",
@@ -182,23 +215,12 @@
               "RelativeToolTip": "usuario\\estantelivros.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T12:05:28.011Z"
+              "WhenOpened": "2024-08-12T12:05:28.011Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "estantelivros.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\curso-tecnico-2024\\usuario\\usuario\\estantelivros.cs",
-              "RelativeDocumentMoniker": "usuario\\estantelivros.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\curso-tecnico-2024\\usuario\\usuario\\estantelivros.cs",
-              "RelativeToolTip": "usuario\\estantelivros.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T12:05:32.783Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "FrmhistLivros.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\curso-tecnico-2024\\usuario\\usuario\\FrmhistLivros.cs",
               "RelativeDocumentMoniker": "usuario\\FrmhistLivros.cs",

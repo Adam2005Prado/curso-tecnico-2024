@@ -44,7 +44,9 @@ CREATE TABLE Table_User (
     CFK_Unidade int,
     CONSTRAINT FK_Ano FOREIGN KEY (CFK_Ano) REFERENCES Table_Ano_Escolar(CD_Ano_Escolar),
     CONSTRAINT FK_Cargo FOREIGN KEY (CFK_Cargo) REFERENCES Table_Cargo(CD_Cargo),
-    CONSTRAINT FK_Unidades FOREIGN KEY (CFK_Unidade) REFERENCES Table_Unidade(CD_Unidade)
+    CONSTRAINT FK_Unit FOREIGN KEY (CFK_Unidade) REFERENCES Table_Unidade(CD_Unidade)
+    ON DELETE CASCADE
+	ON UPDATE CASCADE
 );
 
 CREATE TABLE Table_Historico (
@@ -66,9 +68,7 @@ CREATE TABLE Table_reservas(
     CONSTRAINT FK_Users foreign key (CFK_User) references Table_User(ID_Aluno), 
     CONSTRAINT FK_Livros foreign key (CFK_Livro) references Table_Livro(CD_Livro)
 );
-delete from Table_User where ID_Aluno="23";
-INSERT INTO Table_User (ID_Aluno, NameUser, Nome_Completo, Senha, IMG_User, CFK_Ano, CFK_Cargo, CFK_Unidade)
-VALUES ("24", "Afap", "Adam Farah de Almeida Prado", "1245678", "C:\Users\Aluno\Pictures\Wallpaper Modelo 1 laboratorios.jpg", 2, 1, 2);
+
 insert into Table_Cargo(Cargo) values("Gerente"), ("Aluno"), ("Professor"), ("Externo");
 insert into Table_Ano_Escolar(Ano_Escolar) values ("1° EF"), ("2° EF"), ("3° EF"), ("4° EF"), ("5° EF"), ("6° EF"), ("7° EF"), ("8° EF"), ("9° EF"), ("1° EM"), ("2° EM"), ("3° EM"), ("Diretoria");
 insert into Table_Unidade(Nome_Unidade, Local_Unidade, IMG_Unidade, Descricao_Retirada)
@@ -121,6 +121,11 @@ VALUES
 
 -- falta
 
+
+INSERT INTO Table_User (ID_Aluno, NameUser, Nome_Completo, Senha, IMG_User, CFK_Ano, CFK_Cargo, CFK_Unidade)
+VALUES ("24", "Afap", "Adam Farah de Almeida Prado", "1245678", "Wallpaper Modelo 1 laboratorios.jpg", 2, 1, 2);
+insert into Table_Cargo(Cargo) values("Gerente"), ("Aluno"), ("Professor"), ("Externo");
+
 Select * From Table_Cargo;
 Select * From Table_Ano_Escolar;
 Select * From Table_Unidade;
@@ -129,3 +134,15 @@ Select * From Table_User;
 Select * From Table_Historico;
 Select * From Table_reservas;
 
+select Table_User.ID_Aluno,
+    Table_User.NameUser,
+    Table_User.Nome_Completo,
+    Table_User.Senha,	
+    Table_User.IMG_User,
+    Table_Ano_Escolar.Ano_Escolar,
+	Table_Cargo.Cargo,
+    Table_Unidade.Nome_Unidade 
+    from Table_User 
+    inner join Table_Ano_Escolar on Table_User.CFK_Ano = Table_Ano_Escolar.CD_Ano_Escolar
+    inner join Table_Cargo on Table_User.CFK_Cargo = Table_Cargo.CD_Cargo
+    inner join Table_Unidade on Table_User.CFK_Unidade = Table_Unidade.CD_Unidade;
