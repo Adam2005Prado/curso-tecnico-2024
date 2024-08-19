@@ -1,3 +1,4 @@
+using Minha_Parte_Biblio.Controle;
 using Minha_Parte_Biblio.Modelo;
 using System.Data;
 
@@ -9,6 +10,15 @@ namespace usuario
         ClUserModelo codigo = new ClUserModelo();
         DataTable dt = new DataTable();
         ClConnection conexao = new ClConnection();
+
+        string ID_Aluno;
+        string nameuser;
+        string nomecompleto;
+        string senha;
+        string IMG_User;
+        int CFK_Ano;
+        int CFK_Cargo;
+        int CFK_Unidade;
         public Frmusuario()
         {
             InitializeComponent();
@@ -51,18 +61,13 @@ namespace usuario
             cbunidade.DisplayMember = "Nome_Unidade";
             cbunidade.ValueMember = "CD_Unidade";
 
-            codigo.ID_Aluno = "256";
-            string ID_Aluno;
-            string nameuser;
-            string nomecompleto;
-            string senha;
-            string IMG_User;
-            int CFK_Ano;
-            int CFK_Cargo;
-            int CFK_Unidade;
+            ID_Aluno = "aluno1";
 
 
-            dt = conexao.obterdados("select * from Table_User where ID_Aluno =" + codigo.ID_Aluno);
+
+            dt = conexao.obterdados("select * from Table_User where ID_Aluno = "+ "'"+ID_Aluno+"'");
+
+           
             nameuser = dt.Rows[0]["NameUser"].ToString();
             ID_Aluno = dt.Rows[0]["ID_Aluno"].ToString();
             nomecompleto = dt.Rows[0]["Nome_Completo"].ToString();
@@ -123,6 +128,15 @@ namespace usuario
             clUserModelo.Index_Cargo=cbcargo.SelectedIndex;
             clUserModelo.Index_Ano=cbanoescolar.SelectedIndex;
             clUserModelo.Index_Unidade=cbunidade.SelectedIndex;
+            ClUsercontrole clUsercontrole = new ClUsercontrole();
+            if(clUsercontrole.editar(clUserModelo) == true)
+            {
+                MessageBox.Show("Atualizado com sucesso");
+            }
+            else
+            {
+                MessageBox.Show("Erro ao atualizar os dados");
+            }
 
         }
     }

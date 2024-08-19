@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Data;
+using Microsoft.Win32;
 using MySql.Data.MySqlClient;
 
 
@@ -70,5 +71,36 @@ namespace usuario
 
             return dt;
         }
+        public int editar(string sql, string[] campos, object[] valores, string codigo)
+        {
+            int resultado= 0;
+            try
+            {
+                conn = getConexao();
+                conn.Open();
+                MySqlCommand cmd = new MySqlCommand(sql, conn);
+
+                for (int i = 0; i < valores.Length; i++)
+                {
+                    cmd.Parameters.AddWithValue(campos[i], valores[i]);
+                }
+
+                if (codigo != "0") ;
+                {
+                    cmd.Parameters.AddWithValue("@id", codigo);
+                }
+
+                resultado = Convert.ToInt32( cmd.ExecuteNonQuery());
+                conn.Close();
+            }
+            catch (Exception ex)
+            {
+                throw new Exception(ex.Message);
+            }
+
+            return resultado;
+        }
+            
+        }
     }
-}
+
