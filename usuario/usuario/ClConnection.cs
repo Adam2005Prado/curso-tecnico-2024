@@ -2,6 +2,7 @@
 using System.Data;
 using MySql.Data.MySqlClient;
 
+
 namespace usuario
 {
     internal class ClConnection
@@ -14,7 +15,7 @@ namespace usuario
         public MySqlConnection conn = null;
         static private string StrConexao = $"server={servidor};database={DB};user id={usuario};password={senhas}";
 
-        public MySqlConnection getConexao()
+        public  MySqlConnection getConexao()
         {
             conn = new MySqlConnection(StrConexao);
             return conn;

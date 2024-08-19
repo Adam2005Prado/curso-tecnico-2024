@@ -51,7 +51,7 @@ namespace usuario
             cbunidade.DisplayMember = "Nome_Unidade";
             cbunidade.ValueMember = "CD_Unidade";
 
-            codigo.ID_Aluno = "24";
+            codigo.ID_Aluno = "256";
             string ID_Aluno;
             string nameuser;
             string nomecompleto;
@@ -115,6 +115,14 @@ namespace usuario
 
         private void btnsausuario_Click(object sender, EventArgs e)
         {
+            ClUserModelo clUserModelo = new ClUserModelo();
+            clUserModelo.ID_Aluno=txtidaluno.Text;
+            clUserModelo.NomeComp=txtnomecompleto.Text;
+            clUserModelo.UserName=txtusername.Text;
+            clUserModelo.Password=txtsenha.Text;
+            clUserModelo.Index_Cargo=cbcargo.SelectedIndex;
+            clUserModelo.Index_Ano=cbanoescolar.SelectedIndex;
+            clUserModelo.Index_Unidade=cbunidade.SelectedIndex;
 
         }
     }
