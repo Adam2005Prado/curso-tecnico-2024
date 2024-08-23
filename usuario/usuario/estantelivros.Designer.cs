@@ -44,7 +44,7 @@
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackgroundImage = Properties.Resources.Seleção_do_Livro___Catalogo;
-            ClientSize = new Size(1497, 898);
+            ClientSize = new Size(1482, 711);
             Controls.Add(flowLayoutPanel1);
             Name = "estantelivros";
             StartPosition = FormStartPosition.CenterScreen;

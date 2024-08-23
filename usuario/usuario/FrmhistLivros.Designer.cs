@@ -58,7 +58,7 @@
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackgroundImage = Properties.Resources.HistóricoDUPLICADA;
-            ClientSize = new Size(1497, 898);
+            ClientSize = new Size(1482, 711);
             Controls.Add(qqtdelivros);
             Controls.Add(nlivros);
             Name = "FrmhistLivros";
