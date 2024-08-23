@@ -38,7 +38,7 @@ namespace usuario
 
                 if (codigo > 0)
                 {
-                    cmd.Parameters.AddWithValue("@id", codigo);
+                    cmd.Parameters.AddWithValue(PK_Table, codigo);
                 }
 
                 registro = cmd.ExecuteNonQuery();
@@ -71,7 +71,7 @@ namespace usuario
 
             return dt;
         }
-        public int editar(string sql, string[] campos, object[] valores, string codigo)
+        public int editar(string sql, string[] campos, object[] valores, string codigo, String PK_Table)
         {
             int resultado= 0;
             try
@@ -87,7 +87,7 @@ namespace usuario
 
                 if (codigo != "0") ;
                 {
-                    cmd.Parameters.AddWithValue("@id", codigo);
+                    cmd.Parameters.AddWithValue(PK_Table, codigo);
                 }
 
                 resultado = Convert.ToInt32( cmd.ExecuteNonQuery());
@@ -100,7 +100,26 @@ namespace usuario
 
             return resultado;
         }
+        public int excluir(int codigo, string sql,string PK_Table) {
+            int registro = 0;
+            try
+            {
+                conn = getConexao();
+                conn.Open();
+                MySqlCommand cmd = new MySqlCommand(sql, conn);
+                if (codigo > 0)
+                    cmd.Parameters.AddWithValue(PK_Table, codigo);
+                registro = cmd.ExecuteNonQuery();
+                conn.Close();
+            }
+            catch(Exception ex) 
+            {
+                throw new Exception(ex.Message);
+            }
+            return registro;
+        }
             
         }
+    
     }
 

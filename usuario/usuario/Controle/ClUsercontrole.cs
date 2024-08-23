@@ -62,7 +62,7 @@ namespace Minha_Parte_Biblio.Controle
                 //monto o vetor com os valores do formulario
                 string[] valores = { usuario.ID_Aluno, usuario.UserName, usuario.Password, usuario.Index_Cargo.ToString(), usuario.Index_Ano.ToString(), usuario.Index_Unidade.ToString() };
                 //testar o insert no banco de dados
-                if (conexao.editar(sql,campos,valores,usuario.ID_Aluno)==1)
+                if (conexao.editar(sql,campos,valores,usuario.ID_Aluno, "@ID_Aluno") ==1)
 
                 {
                     resultado = true;
@@ -79,5 +79,28 @@ namespace Minha_Parte_Biblio.Controle
             }
         }
 
+
+        public bool excluir(ClUserModelo usuario)
+        {
+            bool resultado = false;
+            try
+            {
+                string sql = "delete from Table_User where ID_Aluno=" + "'" + usuario.ID_Aluno + "'";
+                if(conexao.excluir(0,sql, "ID_Aluno") >=1)
+                {
+                    resultado = true;
+                }
+                else
+                {
+                    resultado=false;
+                }
+                return resultado;
+            }
+            catch(Exception ex)
+            {
+                throw new Exception(ex.ToString());
+            }
+            return resultado;
+        }
     }
 }

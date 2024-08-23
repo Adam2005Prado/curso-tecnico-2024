@@ -82,7 +82,7 @@ namespace usuario
             txtidaluno.Text = ID_Aluno;
             txtnomecompleto.Text = nomecompleto;
             txtsenha.Text = senha;
-            //fotousuario.Image = Image.FromFile(IMG_User);
+            fotousuario.Image = Image.FromFile(IMG_User);
 
             cbanoescolar.SelectedIndex = CFK_Ano - 1;
 
@@ -115,7 +115,18 @@ namespace usuario
 
         private void btnexcluirusuario_Click(object sender, EventArgs e)
         {
-
+            ClUserModelo excluir = new ClUserModelo();
+                excluir.ID_Aluno = txtidaluno.Text;
+            ClUsercontrole clUsercontrole = new ClUsercontrole();
+            if (clUsercontrole.excluir(excluir) == true)
+            {
+                MessageBox.Show("Usuário excluído com sucesso!");
+            }
+            else
+            {
+                MessageBox.Show("Erro ao excluir o usário");
+            }
+            ;
         }
 
         private void btnsausuario_Click(object sender, EventArgs e)
