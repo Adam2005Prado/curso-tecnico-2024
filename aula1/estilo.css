@@ -1,0 +1,109 @@
+ody {
+    background-color: rgb(215, 215, 61);
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url("fundo.jpg");
+    background-size: cover; /* Para garantir que a imagem de fundo cubra toda a tela */
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    padding: 20px;
+    font-weight: bold;
+    font-size: 14px;
+    text-align: center; /* Centraliza o conteúdo do cabeçalho */
+}
+
+header figure img {
+    max-width: 100%; /* Ajusta o tamanho da imagem ao tamanho disponível */
+    height: auto;
+}
+
+#principal {
+    background-color: blueviolet;
+    color: aqua;
+    width: 800px;
+    height: 600px;
+    margin: 0 auto; /* Centraliza a div principal na página */
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.conteudo1, .conteudo2 {
+    background-color: red;
+    color: white;
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.conteudo1{
+    margin: 20px;
+    background-color: red;
+    color: white;
+    width: 100px;
+    height: 100px;
+}
+.conteudo2{
+    margin: 40px;
+    position: relative;
+    top: -140px;
+    left: 100px;
+    background-color: red;
+    color: white;
+    width: 100px;
+    height: 100px;
+}
+nav {
+    text-align: center;
+    background-color: maroon;
+    color: white;
+    padding: 10px 0;
+    overflow: hidden;
+}
+
+nav a {
+    color: pink;
+    text-decoration: none;
+    margin: 0 15px; /* Adiciona espaçamento entre os links */
+}
+
+nav a:hover {
+    color: black;
+}
+
+nav a:visited {
+    color: aqua;
+}
+
+p {
+    font-weight: bolder;
+    font-size: 13px;
+    text-align: center;
+}
+
+table {
+    margin: 20px auto; /* Centraliza a tabela */
+}
+
+table img {
+    display: block;
+    margin: 0 auto; /* Centraliza a imagem dentro da célula da tabela */
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    padding: 20px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
